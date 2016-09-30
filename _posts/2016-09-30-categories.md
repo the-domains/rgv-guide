@@ -1,22 +1,22 @@
 ---
-datePublished: '2016-09-30T18:46:13.246Z'
+datePublished: '2016-09-30T18:56:00.043Z'
+sourcePath: _posts/2016-09-30-categories.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T18:45:53.253Z'
+dateModified: '2016-09-30T18:55:59.539Z'
 title: Categories
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-09-30-categories.md
 url: categories/index.html
 _type: Article
 
 ---
 # Categories
 
-* Advertising and Media
+* [Advertising and Media][0]
 * Arts, Culture, and Entertainment
 * Business and Professional Services
 * Community
@@ -36,3 +36,5 @@ _type: Article
 * Sports and Recreation
 * Transportation
 * Utilities
+
+[0]: https://thegrid.ai/rgv-guide/advertising-and-media/ "Advertising and Media"
