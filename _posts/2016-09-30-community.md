@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-30T19:53:54.759Z'
+datePublished: '2016-09-30T20:07:26.899Z'
 sourcePath: _posts/2016-09-30-community.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T19:53:54.416Z'
+dateModified: '2016-09-30T20:07:26.402Z'
 title: Community
 publisher: {}
 description: ''
@@ -15,3 +15,5 @@ _type: Blurb
 
 ---
 # Community
+
+* Speer Memorial Library
