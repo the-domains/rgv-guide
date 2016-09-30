@@ -1,14 +1,16 @@
 ---
-datePublished: '2016-09-30T19:49:18.282Z'
-inFeed: true
+datePublished: '2016-09-30T19:53:54.759Z'
+sourcePath: _posts/2016-09-30-community.md
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T19:14:32.409Z'
+dateModified: '2016-09-30T19:53:54.416Z'
 title: Community
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-09-30-community.md
+url: community/index.html
 _type: Blurb
 
 ---
