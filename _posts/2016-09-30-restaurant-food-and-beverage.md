@@ -1,17 +1,30 @@
 ---
-datePublished: '2016-09-30T19:49:18.299Z'
+datePublished: '2016-09-30T23:32:42.545Z'
+sourcePath: _posts/2016-09-30-restaurant-food-and-beverage.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T19:45:54.490Z'
+dateModified: '2016-09-30T23:29:56.962Z'
 title: 'Restaurant, Food, and Beverage'
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-09-30-restaurant-food-and-beverage.md
 url: restaurant-food-and-beverage/index.html
 _type: Blurb
 
 ---
 # Restaurant, Food, and Beverage
+
+## Restaurants 
+
+* Danny's Mexican Restaurant
+* Diaz Diner
+* El Patio Restaurant
+* La Fruteria
+* La Playita Restaurant and Bar
+* Lalo's Restaurant
+* Luau Drive In
+* Taco Ole
+* The Riverside Club
+* Yoko's Sushi Bar
