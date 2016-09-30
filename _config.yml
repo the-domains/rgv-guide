@@ -29,6 +29,9 @@ navigation:
   - name: Contact
     id: f0461174-7e15-4bef-ba42-38ecf644b071
     type: content
+  - name: About
+    id: 9a2aa503-1ea5-4d24-82c5-986191c78f54
+    type: content
 title: 'Mission, Texas Guide'
 description: 'Find it here '
 purpose: []
