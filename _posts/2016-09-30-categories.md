@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-30T18:56:00.043Z'
+datePublished: '2016-09-30T20:21:02.675Z'
 sourcePath: _posts/2016-09-30-categories.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T18:55:59.539Z'
+dateModified: '2016-09-30T20:20:47.262Z'
 title: Categories
 publisher: {}
 description: ''
@@ -37,4 +37,4 @@ _type: Article
 * Transportation
 * Utilities
 
-[0]: https://thegrid.ai/rgv-guide/advertising-and-media/ "Advertising and Media"
+[0]: https://thegrid.ai/mission-guide/advertising-and-media/ "Advertising and Media"
