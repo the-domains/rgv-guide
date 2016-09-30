@@ -4,14 +4,15 @@
         <description><![CDATA[RGV Guide]]></description>
         <link>https://thegrid.ai/rgv-guide/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Sep 2016 18:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2016 18:56:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rgv-guide/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 30 Sep 2016 18:56:00 GMT</pubDate>
         <item>
             <title><![CDATA[Categories]]></title>
             <description><![CDATA[<h1>Categories</h1>]]></description>
             <link>https://thegrid.ai/rgv-guide/categories/index.html</link>
             <guid isPermaLink="false">68ebd1a1-1948-486c-bd75-d7f8b54ac140</guid>
-            <pubDate>Fri, 30 Sep 2016 18:46:13 GMT</pubDate>
+            <pubDate>Fri, 30 Sep 2016 18:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
