@@ -4,22 +4,22 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>https://thegrid.ai/mission-guide/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Sep 2016 20:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2016 22:30:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mission-guide/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Sep 2016 20:21:02 GMT</pubDate>
+        <pubDate>Fri, 30 Sep 2016 22:30:41 GMT</pubDate>
+        <item>
+            <title><![CDATA[Advertise]]></title>
+            <description><![CDATA[<article><h1>Advertise</h1><p>Advertise with MissionTexas.net</p></article>]]></description>
+            <link>https://thegrid.ai/mission-guide/advertise/index.html</link>
+            <guid isPermaLink="false">62a7e29a-68bf-4813-9511-ab6337958c30</guid>
+            <pubDate>Fri, 30 Sep 2016 22:30:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Categories]]></title>
             <description><![CDATA[<h1>Categories</h1>]]></description>
             <link>https://thegrid.ai/mission-guide/categories/index.html</link>
             <guid isPermaLink="false">68ebd1a1-1948-486c-bd75-d7f8b54ac140</guid>
             <pubDate>Fri, 30 Sep 2016 20:21:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advertise]]></title>
-            <description><![CDATA[<article><h1>Advertise</h1><p>Advertise with RGV.Guide</p></article>]]></description>
-            <link>https://thegrid.ai/mission-guide/advertise/index.html</link>
-            <guid isPermaLink="false">62a7e29a-68bf-4813-9511-ab6337958c30</guid>
-            <pubDate>Fri, 30 Sep 2016 19:58:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
