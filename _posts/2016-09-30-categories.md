@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-30T20:21:02.675Z'
+datePublished: '2016-09-30T23:07:15.939Z'
 sourcePath: _posts/2016-09-30-categories.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T20:20:47.262Z'
+dateModified: '2016-09-30T23:07:15.383Z'
 title: Categories
 publisher: {}
 description: ''
