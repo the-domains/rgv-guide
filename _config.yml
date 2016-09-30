@@ -17,13 +17,11 @@ opengraph:
   type: ''
   appId: ''
 layout_spectrum: 0.7400550576858222
-analytics:
-  google: UA-10292293-1
 author:
   name: Shaine Mata
   url: 'http://www.shainemata.com'
   email: shaine@shainemata.com
-name: MissionTexas.net
+name: 'Mission, Texas Guide'
 navigation:
   - name: Advertise
     id: 62a7e29a-68bf-4813-9511-ab6337958c30
@@ -34,6 +32,9 @@ navigation:
   - name: About
     id: 9a2aa503-1ea5-4d24-82c5-986191c78f54
     type: content
+  - name: Blog
+    url: 'http://blog.missiontexas.net/'
+    type: external
 title: 'Mission, Texas Guide'
 description: 'Find it here '
 purpose: []
