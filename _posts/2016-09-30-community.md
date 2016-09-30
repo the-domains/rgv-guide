@@ -1,7 +1,7 @@
 ---
 title: Community
-datePublished: '2016-09-30T20:29:14.138Z'
-dateModified: '2016-09-30T20:29:11.248Z'
+datePublished: '2016-09-30T20:31:21.651Z'
+dateModified: '2016-09-30T20:31:18.853Z'
 publisher: {}
 author: []
 inFeed: false
@@ -14,8 +14,6 @@ url: community/index.html
 _type: Blurb
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/093fc0fe-63d6-41cd-95c0-19d6f989e268.jpg" /><h1>Board Room</h1></article>
-
 # Community
 
 * Anzalduas International Bridge
