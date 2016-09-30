@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-30T19:58:38.661Z'
+datePublished: '2016-09-30T22:30:40.910Z'
 sourcePath: _posts/2016-09-30-advertise.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T19:58:38.207Z'
+dateModified: '2016-09-30T22:30:33.441Z'
 title: Advertise
 publisher: {}
-description: Advertise with RGV.Guide
+description: Advertise with MissionTexas.net
 starred: false
 url: advertise/index.html
 _context: 'http://schema.org'
@@ -17,10 +17,10 @@ _type: Article
 ---
 # Advertise
 
-Advertise with RGV.Guide
+Advertise with MissionTexas.net
 
-$50/Mo front page ad
+$100/Mo front page ad
 
 $10/Mo category ad
 
-Free
+Free simple listing with link to your website
