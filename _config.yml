@@ -28,3 +28,7 @@ navigation:
     type: content
 title: 'Mission, Texas Guide'
 description: Find it here
+purpose:
+  - type: internal
+    label: Search
+    item: ecc525c6-56cd-4ae0-a54e-b137ea7d9b84
