@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T01:19:27.301Z'
+datePublished: '2016-10-01T01:19:28.920Z'
 sourcePath: _posts/2016-09-30-finance-and-insurance.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T01:19:19.221Z'
+dateModified: '2016-10-01T01:19:28.652Z'
 title: Finance and Insurance
 publisher: {}
 description: Money Exchange
