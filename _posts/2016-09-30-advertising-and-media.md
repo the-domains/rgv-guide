@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T00:13:06.680Z'
+datePublished: '2016-10-01T00:46:30.703Z'
 sourcePath: _posts/2016-09-30-advertising-and-media.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T00:11:38.814Z'
+dateModified: '2016-10-01T00:45:54.272Z'
 title: Advertising and Media
 publisher: {}
 description: ''
@@ -19,14 +19,16 @@ _type: Blurb
 ## Advertising
 
 * [Signs & Prints][0]
+* [Valley Sports Screen Printing & Embroidery][1]
 
 ## Media
 
-* [Rgvision Magazine][1]
-* [The Progress Times][2]
-* [Winter Texan Times][3]
+* [Rgvision Magazine][2]
+* [The Progress Times][3]
+* [Winter Texan Times][4]
 
 [0]: http://signsandprints.net/ "Signs & Prints"
-[1]: http://rgvisionmagazine.com/ "Rgvision Magazine"
-[2]: http://www.progresstimes.net/ "The Progress Times Newspaper"
-[3]: http://www.wintertexantimes.com/ "Winter Texan Times"
+[1]: http://directory.missionchamber.com/listing/valley-sports-screen-printing-embroidery/ "Valley Sports Screen Printing and Embroidery"
+[2]: http://rgvisionmagazine.com/ "Rgvision Magazine"
+[3]: http://www.progresstimes.net/ "The Progress Times Newspaper"
+[4]: http://www.wintertexantimes.com/ "Winter Texan Times"
