@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T00:56:41.380Z'
+datePublished: '2016-10-01T01:02:34.910Z'
 sourcePath: _posts/2016-09-30-business-and-professional-services.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T00:56:07.190Z'
+dateModified: '2016-10-01T01:02:05.212Z'
 title: Business and Professional Services
 publisher: {}
 description: Agriculture
@@ -21,22 +21,27 @@ Agriculture
 * [Citrus Alert][0]
 * [Valley Horticultural Seeds, Inc.][1]
 
+Attorneys
+
+* [King, Guerra, Davis & Garcia][2]
+
 Automotive
 
-* [Superior Oil Express][2]
+* [Superior Oil Express][3]
 
 Business Printing and Shipping
 
-* [PostNet 143][3]
+* [PostNet 143][4]
 
 Electrical
 
-* [Thompson's Electric Service][4]
+* [Thompson's Electric Service][5]
 
 Plumbing
 
 [0]: https://www.facebook.com/SuperiorOilExpress/ "Texas Citrus Pest & Disease Management"
 [1]: http://host.trustab.org/valleyhorticulturalseeds "Valley Horticultural Seeds"
-[2]: https://www.facebook.com/SuperiorOilExpress/ "Superior Oil Express"
-[3]: http://www.postnet.com/mission-tx143 "PostNet"
-[4]: http://directory.missionchamber.com/listing/thompsons-electric-service/ "Thompson's Electric Service"
+[2]: http://missionlaw.com/ "Mission Law"
+[3]: https://www.facebook.com/SuperiorOilExpress/ "Superior Oil Express"
+[4]: http://www.postnet.com/mission-tx143 "PostNet"
+[5]: http://directory.missionchamber.com/listing/thompsons-electric-service/ "Thompson's Electric Service"
