@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T00:54:27.011Z'
+datePublished: '2016-10-01T00:54:28.721Z'
 sourcePath: _posts/2016-09-30-personal-services.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T00:53:35.201Z'
+dateModified: '2016-10-01T00:54:28.299Z'
 title: Personal Services
 publisher: {}
 description: Nails
