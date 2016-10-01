@@ -4,9 +4,9 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 01 Oct 2016 04:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2016 04:07:39 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Oct 2016 04:01:44 GMT</pubDate>
+        <pubDate>Sat, 01 Oct 2016 04:07:38 GMT</pubDate>
         <item>
             <title><![CDATA[Advertise]]></title>
             <description><![CDATA[<article><h1>Advertise</h1><p>Advertise with MissionTexas.net</p></article>]]></description>
@@ -19,7 +19,7 @@
             <description><![CDATA[<h1>Business Directory</h1>]]></description>
             <link>http://missiontexas.net/categories/index.html</link>
             <guid isPermaLink="false">68ebd1a1-1948-486c-bd75-d7f8b54ac140</guid>
-            <pubDate>Sat, 01 Oct 2016 04:01:44 GMT</pubDate>
+            <pubDate>Sat, 01 Oct 2016 04:07:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
