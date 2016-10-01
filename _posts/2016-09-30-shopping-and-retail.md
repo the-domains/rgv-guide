@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T04:14:23.550Z'
+datePublished: '2016-10-01T04:20:31.626Z'
 sourcePath: _posts/2016-09-30-shopping-and-retail.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T02:01:11.124Z'
+dateModified: '2016-10-01T04:20:30.462Z'
 title: Shopping and Retail
 publisher: {}
 description: Car Dealers
