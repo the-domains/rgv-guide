@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T02:27:47.224Z'
+datePublished: '2016-10-01T02:27:49.078Z'
 sourcePath: _posts/2016-09-30-home-and-garden.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T02:18:53.420Z'
+dateModified: '2016-10-01T02:27:48.744Z'
 title: Home and Garden
 publisher: {}
 description: Cleaning
