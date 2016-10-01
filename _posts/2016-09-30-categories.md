@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-30T23:59:59.274Z'
+datePublished: '2016-10-01T04:01:44.177Z'
 sourcePath: _posts/2016-09-30-categories.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T23:59:58.322Z'
-title: Categories
+dateModified: '2016-10-01T04:01:12.015Z'
+title: Business Directory
 publisher: {}
 description: ''
 starred: false
@@ -14,7 +14,7 @@ url: categories/index.html
 _type: Article
 
 ---
-# Categories
+# Business Directory
 
 * [Advertising and Media][0]
 * [Arts, Culture, and Entertainment][1]
