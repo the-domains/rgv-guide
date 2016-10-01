@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T01:05:41.269Z'
+datePublished: '2016-10-01T01:21:55.973Z'
 sourcePath: _posts/2016-09-30-business-and-professional-services.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T01:05:16.403Z'
+dateModified: '2016-10-01T01:20:53.271Z'
 title: Business and Professional Services
 publisher: {}
 description: Agriculture
@@ -34,9 +34,13 @@ Business Printing and Shipping
 
 * [PostNet 143][5]
 
+Construction
+
+* [Charisma Construction][6]
+
 Electrical
 
-* [Thompson's Electric Service][6]
+* [Thompson's Electric Service][7]
 
 Plumbing
 
@@ -46,4 +50,5 @@ Plumbing
 [3]: http://missionlaw.com/ "Mission Law"
 [4]: https://www.facebook.com/SuperiorOilExpress/ "Superior Oil Express"
 [5]: http://www.postnet.com/mission-tx143 "PostNet"
-[6]: http://directory.missionchamber.com/listing/thompsons-electric-service/ "Thompson's Electric Service"
+[6]: http://directory.missionchamber.com/listing/charisma-construction/ "Charisma Construction"
+[7]: http://directory.missionchamber.com/listing/thompsons-electric-service/ "Thompson's Electric Service"
