@@ -1,15 +1,15 @@
 ---
-title: Activities
-dateModified: '2016-10-01T07:15:05.905Z'
-publisher: {}
-author: []
+datePublished: '2016-10-01T16:55:28.637Z'
+sourcePath: _posts/2016-10-01-activities.md
 inFeed: true
 hasPage: true
-description: ''
+author: []
 via: {}
-datePublished: '2016-10-01T07:15:07.245Z'
+dateModified: '2016-10-01T16:55:23.955Z'
+title: Activities
+publisher: {}
+description: ''
 starred: false
-sourcePath: _posts/2016-10-01-activities.md
 url: activities/index.html
 _type: Article
 
@@ -19,9 +19,12 @@ _type: Article
 # Activities
 
 * Biking
-* Bird watching
-* Fishing
+* Bird watching 
+* [Fishing][0]
 * Golf
 * Jogging and Running
-* Kayaking
+* [Kayaking][1]
 * Skating
+
+[0]: http://missiontexas.net/fishing/ "Fishing in Mission, Texas"
+[1]: http://missiontexas.net/kayaking/ "Kayaking in Mission, Texas"
