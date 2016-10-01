@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-01T01:15:10.394Z'
+datePublished: '2016-10-01T04:03:34.494Z'
 sourcePath: _posts/2016-09-30-restaurant-food-and-beverage.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T01:15:09.724Z'
+dateModified: '2016-10-01T04:03:19.285Z'
 title: 'Restaurant, Food, and Beverage'
 publisher: {}
-description: Food
+description: ''
 starred: false
 url: restaurant-food-and-beverage/index.html
 _type: Blurb
@@ -16,7 +16,7 @@ _type: Blurb
 ---
 # Restaurant, Food, and Beverage
 
-Food
+## Food
 
 * [Growers Select Produce][0]
 
