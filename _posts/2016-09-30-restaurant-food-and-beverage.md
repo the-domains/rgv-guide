@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T04:03:34.494Z'
+datePublished: '2016-10-01T04:20:31.642Z'
 sourcePath: _posts/2016-09-30-restaurant-food-and-beverage.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T04:03:19.285Z'
+dateModified: '2016-10-01T04:20:30.462Z'
 title: 'Restaurant, Food, and Beverage'
 publisher: {}
 description: ''
