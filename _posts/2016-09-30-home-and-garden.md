@@ -1,17 +1,28 @@
 ---
-datePublished: '2016-09-30T19:49:18.305Z'
+datePublished: '2016-10-01T01:00:56.381Z'
+sourcePath: _posts/2016-09-30-home-and-garden.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T19:18:09.190Z'
+dateModified: '2016-10-01T01:00:41.248Z'
 title: Home and Garden
 publisher: {}
-description: ''
+description: Cleaning
 starred: false
-sourcePath: _posts/2016-09-30-home-and-garden.md
 url: home-and-garden/index.html
 _type: Blurb
 
 ---
 # Home and Garden
+
+Cleaning
+
+* [Jet Wash Carpet Cleaning][0]
+
+Home Interiors
+
+* [JM Curtain Designer and Blinds, LLC][1]
+
+[0]: http://directory.missionchamber.com/listing/jet-wash-carpet-cleaning/ "Jet Wash Carpet Cleaning"
+[1]: http://www.jmblinds.com/ "JM Blinds"
