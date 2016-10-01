@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 01 Oct 2016 06:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2016 07:15:12 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Oct 2016 06:46:55 GMT</pubDate>
+        <pubDate>Sat, 01 Oct 2016 07:15:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[Activities]]></title>
+            <description><![CDATA[<article><h1>Activities</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d43ed13-e854-471d-8b44-2c213feb013c.jpg"></article>]]></description>
+            <link>http://missiontexas.net/activities/index.html</link>
+            <guid isPermaLink="false">449bf259-60ee-4e72-9d4a-9ad9288ac175</guid>
+            <pubDate>Sat, 01 Oct 2016 07:15:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[History]]></title>
             <description><![CDATA[<article><h1>History</h1><p>The City of Mission gets its name from a Catholic Mission like this one.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6043bfd-a7f0-4c73-a6cd-7a4eb57c8edf.jpg"></article>]]></description>
