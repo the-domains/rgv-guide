@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-30T23:32:42.545Z'
+datePublished: '2016-10-01T00:16:37.920Z'
 sourcePath: _posts/2016-09-30-restaurant-food-and-beverage.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-30T23:29:56.962Z'
+dateModified: '2016-10-01T00:16:08.123Z'
 title: 'Restaurant, Food, and Beverage'
 publisher: {}
 description: ''
@@ -16,7 +16,7 @@ _type: Blurb
 ---
 # Restaurant, Food, and Beverage
 
-## Restaurants 
+## Restaurants
 
 * Danny's Mexican Restaurant
 * Diaz Diner
@@ -26,5 +26,7 @@ _type: Blurb
 * Lalo's Restaurant
 * Luau Drive In
 * Taco Ole
-* The Riverside Club
+* [The Riverside Club][0]
 * Yoko's Sushi Bar
+
+[0]: http://www.ontheriver.net/ "The Riverside Club"
