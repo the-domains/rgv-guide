@@ -29,12 +29,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.missiontexas.net/2016/09/my-summer-at-ceed-groundwork-for.html'
 title: 'My Summer At CEED: Groundwork for Something Great'
-datePublished: '2016-10-01T04:15:11.742Z'
-dateModified: '2016-10-01T04:15:02.352Z'
+datePublished: '2016-10-01T04:20:31.647Z'
+dateModified: '2016-10-01T04:20:30.462Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-10-01-my-summer-at-ceed-groundwork-for-something-great.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
