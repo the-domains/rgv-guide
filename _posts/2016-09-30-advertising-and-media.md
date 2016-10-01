@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T00:05:09.830Z'
+datePublished: '2016-10-01T00:13:06.680Z'
 sourcePath: _posts/2016-09-30-advertising-and-media.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T00:05:09.479Z'
+dateModified: '2016-10-01T00:11:38.814Z'
 title: Advertising and Media
 publisher: {}
 description: ''
@@ -16,10 +16,17 @@ _type: Blurb
 ---
 # Advertising and Media
 
-* [Rgvision Magazine][0]
-* [The Progress Times][1]
-* [Winter Texan Times][2]
+## Advertising
 
-[0]: http://rgvisionmagazine.com/ "Rgvision Magazine"
-[1]: http://www.progresstimes.net/ "The Progress Times Newspaper"
-[2]: http://www.wintertexantimes.com/ "Winter Texan Times"
+* [Signs & Prints][0]
+
+## Media
+
+* [Rgvision Magazine][1]
+* [The Progress Times][2]
+* [Winter Texan Times][3]
+
+[0]: http://signsandprints.net/ "Signs & Prints"
+[1]: http://rgvisionmagazine.com/ "Rgvision Magazine"
+[2]: http://www.progresstimes.net/ "The Progress Times Newspaper"
+[3]: http://www.wintertexantimes.com/ "Winter Texan Times"
