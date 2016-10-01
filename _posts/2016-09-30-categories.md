@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T04:01:44.177Z'
+datePublished: '2016-10-01T04:07:38.416Z'
 sourcePath: _posts/2016-09-30-categories.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T04:01:12.015Z'
+dateModified: '2016-10-01T04:07:21.572Z'
 title: Business Directory
 publisher: {}
 description: ''
@@ -20,7 +20,16 @@ _type: Article
 * [Arts, Culture, and Entertainment][1]
 * [Business and Professional Services][2]
 * [Community][3]
+  * Churches
+  * Government
+  * Organizations
 * [Education][4]
+  * Charter Schools
+  * Education Organizations
+  * Music Education
+  * Private Schools
+  * Public Schools
+  * Tutoring
 * [Finance and Insurance][5]
 * [Healthcare][6]
 * [Home and Garden][7]
@@ -32,6 +41,9 @@ _type: Article
 * [Real Estate][13]
 * [Rental][14]
 * [Restaurant, Food, and Beverage][15]
+  * Bars
+  * Grocery
+  * Restaurant
 * [Shopping and Retail][16]
 * [Sports and Recreation][17]
 * [Transportation][18]
