@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T17:26:07.976Z'
+datePublished: '2016-10-01T17:26:11.838Z'
 sourcePath: _posts/2016-10-01-upcoming-events.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T17:22:51.255Z'
+dateModified: '2016-10-01T17:26:11.500Z'
 title: Upcoming Events
 publisher: {}
 description: ''
