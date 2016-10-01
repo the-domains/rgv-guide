@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T01:15:08.405Z'
+datePublished: '2016-10-01T01:15:10.394Z'
 sourcePath: _posts/2016-09-30-restaurant-food-and-beverage.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T01:14:56.623Z'
+dateModified: '2016-10-01T01:15:09.724Z'
 title: 'Restaurant, Food, and Beverage'
 publisher: {}
 description: Food
@@ -29,7 +29,7 @@ Food
 * [Luau Drive In][5]
 * [Taco Ole][6]
 * [The Riverside Club][7]
-* Yoko's Sushi Bar 
+* [Yoko's Sushi Bar][8]
 
 [0]: http://directory.missionchamber.com/listing/growers-select-produce-inc/ "Growers Select Produce"
 [1]: https://www.facebook.com/Dannys-Mexican-Restaurant-126251037393158/ "Danny's Mexican Restaurant - Facebook"
@@ -39,3 +39,4 @@ Food
 [5]: https://www.facebook.com/pages/Luau-Drive-Inn/116287918400110 "Luau Drive In Restaurant"
 [6]: http://mytacoole.com/ "Taco Ole"
 [7]: http://www.ontheriver.net/ "The Riverside Club"
+[8]: http://www.yokossushibar.com/ "Yoko's Sushi Bar"
