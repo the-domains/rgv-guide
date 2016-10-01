@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T04:19:31.035Z'
+datePublished: '2016-10-01T06:45:00.192Z'
 sourcePath: _posts/2016-09-30-categories.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T04:19:30.634Z'
+dateModified: '2016-10-01T06:44:59.617Z'
 title: Business Directory
 publisher: {}
 description: ''
