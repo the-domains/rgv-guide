@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-01T00:44:55.129Z'
+datePublished: '2016-10-01T01:43:12.355Z'
 sourcePath: _posts/2016-09-30-community.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T00:44:19.240Z'
+dateModified: '2016-10-01T01:42:33.479Z'
 title: Community
 publisher: {}
-description: ''
+description: Churches
 starred: false
 url: community/index.html
 _type: Blurb
@@ -16,23 +16,44 @@ _type: Blurb
 ---
 # Community
 
-* Anzalduas International Bridge
-* Boys & Girls Club of Mission
-* Catholic War Veterans Post 1065
-* [City of Mission][0]
-* Congressman Henry Cuellar
-* Mission Crime Stoppers
-* [Mission Economic Development Corporation][1]
-* [Mission Fire Department][2]
-* Mission Lions Club
-* Mission Parks and Recreation
-* [Mission Police Department][3]
-* [Speer Memorial Library][4]
-* [Texas Citrus Fiesta][5]
+Churches
 
-[0]: http://www.missiontexas.us/
-[1]: http://www.missionedc.com/ "Mission EDC"
-[2]: http://missiontexas.us/city-departments/fire-department/ "Mission FD"
-[3]: http://www.missionpolice.org/ "Mission PD"
-[4]: http://www.mission.lib.tx.us/ "Speer Memorial Library"
-[5]: http://www.texascitrusfiesta.org/ "Texas Citrus Fiesta"
+* [Freedom Life Church][0]
+* [North Mission Church of Christ][1]
+
+Government
+
+* [Anzalduas International Bridge][2]
+* [City of Mission][3]
+* [Congressman Henry Cuellar][4]
+* [Mission Crime Stoppers][5]
+* [Mission Economic Development Corporation][6]
+* [Mission Fire Department][7]
+* [Mission HEROES, Inc.][8]
+* [Mission Parks and Recreation][9]
+* [Mission Police Department][10]
+* [Speer Memorial Library][11]
+* [Texas Citrus Fiesta][12]
+
+Organizations
+
+* [Boys & Girls Club of Mission][13]
+* [Catholic War Veterans Post 1065][14]
+* [Mission Lions Club][15]
+
+[0]: http://www.freedomlifemission.com/ "Freedom Life Church"
+[1]: http://northmissionchurch.com/ "North Mission Church of Christ"
+[2]: http://old.mcallen.net/bridge/anzalduas.aspx "Anzalduas Bridge"
+[3]: http://www.missiontexas.us/
+[4]: http://cuellar.house.gov/ "Congressman Cuellar"
+[5]: http://www.missionpolice.org/div_crimestp.php "Mission Crime Stoppers"
+[6]: http://www.missionedc.com/ "Mission EDC"
+[7]: http://missiontexas.us/city-departments/fire-department/ "Mission FD"
+[8]: http://directory.missionchamber.com/listing/mission-heroes/ "Mission HEROES"
+[9]: http://missiontexas.us/city-departments/parks-and-recreation/ "Mission Parks & Rec"
+[10]: http://www.missionpolice.org/ "Mission PD"
+[11]: http://www.mission.lib.tx.us/ "Speer Memorial Library"
+[12]: http://www.texascitrusfiesta.org/ "Texas Citrus Fiesta"
+[13]: http://www.bgca.org/Pages/index.aspx "Boys & Girls Club"
+[14]: https://www.facebook.com/pages/Catholic-War-Veterans-Post-1065/117569718304374 "Catholic War Veterans"
+[15]: http://www.missiontx.lionwap.org/ "Mission Lions Club"
