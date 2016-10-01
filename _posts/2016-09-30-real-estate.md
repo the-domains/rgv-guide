@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T01:18:22.259Z'
+datePublished: '2016-10-01T01:18:23.861Z'
 sourcePath: _posts/2016-09-30-real-estate.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T01:17:55.203Z'
+dateModified: '2016-10-01T01:18:23.498Z'
 title: Real Estate
 publisher: {}
 description: Abstract and Title
