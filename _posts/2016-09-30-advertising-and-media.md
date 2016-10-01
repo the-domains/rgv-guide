@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T00:05:08.076Z'
+datePublished: '2016-10-01T00:05:09.830Z'
 sourcePath: _posts/2016-09-30-advertising-and-media.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T00:05:04.708Z'
+dateModified: '2016-10-01T00:05:09.479Z'
 title: Advertising and Media
 publisher: {}
 description: ''
