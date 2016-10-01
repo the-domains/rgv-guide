@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 01 Oct 2016 07:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2016 15:24:45 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Oct 2016 07:15:07 GMT</pubDate>
+        <pubDate>Sat, 01 Oct 2016 15:24:39 GMT</pubDate>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57cd3327-97bd-417a-8a81-75756aaa7363.jpg"></article>]]></description>
+            <link>http://missiontexas.net/welcome/index.html</link>
+            <guid isPermaLink="false">74ffe391-d49f-41e6-ad19-1b770a6398a9</guid>
+            <pubDate>Sat, 01 Oct 2016 15:24:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Activities]]></title>
             <description><![CDATA[<article><h1>Activities</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d43ed13-e854-471d-8b44-2c213feb013c.jpg"></article>]]></description>
