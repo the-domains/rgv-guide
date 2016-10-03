@@ -1,7 +1,7 @@
 ---
 title: 'Restaurant, Food, and Beverage'
-datePublished: '2016-10-03T17:31:34.403Z'
-dateModified: '2016-10-03T17:31:27.522Z'
+datePublished: '2016-10-03T17:48:38.158Z'
+dateModified: '2016-10-03T17:48:19.491Z'
 publisher: {}
 author: []
 inFeed: false
@@ -20,13 +20,16 @@ _type: Blurb
 
 * [Pasteles Blankita][0]
 
-## Fast Food 
+## Fast Food
 
-* Burger KinM
+* Burger King
+* Church's Fried Chicken
+* Kentucky Fried Chicken
 * McDonald's
+* Pizza Hut
+* Stars Drive In
 * Subway
-
-## Food
+* ## Food
 
 * [Growers Select Produce][1]
 
