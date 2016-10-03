@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-03T15:28:12.811Z'
+datePublished: '2016-10-03T15:30:03.782Z'
 sourcePath: _posts/2016-09-30-education.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T15:28:11.811Z'
+dateModified: '2016-10-03T15:30:02.853Z'
 title: Education
 publisher: {}
 description: Charter Schools
