@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-03T15:37:51.930Z'
+datePublished: '2016-10-03T15:38:37.004Z'
 sourcePath: _posts/2016-09-30-advertise.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T15:37:51.439Z'
+dateModified: '2016-10-03T15:38:36.682Z'
 title: Advertise
 publisher: {}
 description: Advertise with MissionTexas.net
