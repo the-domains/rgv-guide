@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-10-03T15:38:09.505Z'
+datePublished: '2016-10-03T15:38:12.305Z'
 sourcePath: _posts/2016-09-30-categories.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T15:38:09.102Z'
+dateModified: '2016-10-03T15:38:11.864Z'
 title: Business Directory
 publisher: {}
 description: ''
-starred: true
+starred: false
 url: categories/index.html
 _type: Article
 
