@@ -1,7 +1,7 @@
 ---
 title: Shopping and Retail
-datePublished: '2016-10-03T17:41:44.422Z'
-dateModified: '2016-10-03T17:41:42.044Z'
+datePublished: '2016-10-03T18:03:54.306Z'
+dateModified: '2016-10-03T18:03:52.949Z'
 publisher: {}
 author: []
 inFeed: false
@@ -20,6 +20,10 @@ _type: Blurb
 
 * [Bert Ogden Mission Mazda][0]
 
+## Consignment 
+
+* [Sandy's Clozet Resale & Consignment][1]
+
 ## Department Stores
 
 * Dollar General
@@ -27,9 +31,10 @@ _type: Blurb
 
 ## Health Shop
 
-* [Centro Bioenergy][1]
-* [The ProTeam Shop][2]
+* [Centro Bioenergy][2]
+* [The ProTeam Shop][3]
 
 [0]: http://www.bertogdenmissionmazda.com/ "Bert Ogden Mission Mazda"
-[1]: http://www.centrobioenergy.com/en/home/ "Bioenergy Center"
-[2]: https://m.facebook.com/TheProTeamShop/ "ProTeam Shop"
+[1]: https://www.facebook.com/SandysClozet/ "Sandy's Clozet"
+[2]: http://www.centrobioenergy.com/en/home/ "Bioenergy Center"
+[3]: https://m.facebook.com/TheProTeamShop/ "ProTeam Shop"
