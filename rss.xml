@@ -4,9 +4,9 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 20:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2016 20:15:35 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Oct 2016 20:04:41 GMT</pubDate>
+        <pubDate>Mon, 03 Oct 2016 20:15:34 GMT</pubDate>
         <item>
             <title><![CDATA[Business Directory]]></title>
             <description><![CDATA[<h1>Business Directory</h1>]]></description>
@@ -41,6 +41,13 @@
             <link>http://missiontexas.net/history/index.html</link>
             <guid isPermaLink="false">fc1b2c87-64c0-4e77-a59e-303bde9975c1</guid>
             <pubDate>Mon, 03 Oct 2016 15:46:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MissionTexas.net Blog]]></title>
+            <description><![CDATA[<article><h1>MissionTexas.net Blog</h1><p>Site dedicated to providing pertinent, useful information from Mission, Texas for residents and visitors. Get first hand info from a resident. This site is about, but not part of the City of Mission, Texas. Opinions expressed here reflect the opinion of the individual poster.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/eed1cf1a41fbcd04b109488fa1eb64e5/noop.jpg?input=https%3A%2F%2Flh3.googleusercontent.com%2F-8dZdj6NGpSM%2FVdX7iXiPXzI%2FAAAAAAABRx4%2Frbarg-lIIwQ%2Fs640%2Fblogger-image-1845941940.jpg"></article>]]></description>
+            <link>http://blog.missiontexas.net/</link>
+            <guid isPermaLink="false">c1e4c1ad-d436-42fe-a7f1-83ffdcf73ef3</guid>
+            <pubDate>Mon, 03 Oct 2016 20:15:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
