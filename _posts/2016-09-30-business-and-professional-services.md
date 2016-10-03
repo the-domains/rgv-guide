@@ -1,57 +1,58 @@
 ---
-datePublished: '2016-10-01T01:57:01.885Z'
-sourcePath: _posts/2016-09-30-business-and-professional-services.md
+title: Business and Professional Services
+datePublished: '2016-10-03T18:51:53.476Z'
+dateModified: '2016-10-03T18:51:45.024Z'
+publisher: {}
+author: []
 inFeed: false
 hasPage: true
-author: []
+description: Plumbing
 via: {}
-dateModified: '2016-10-01T01:56:49.293Z'
-title: Business and Professional Services
-publisher: {}
-description: Agriculture
 starred: false
+sourcePath: _posts/2016-09-30-business-and-professional-services.md
 url: business-and-professional-services/index.html
 _type: Blurb
 
 ---
 # Business and Professional Services
 
-Agriculture
+## Agriculture
 
 * [Citrus Alert][0]
 * [Rio Grande Juice Company][1]
 * [Valley Horticultural Seeds, Inc.][2]
 * [Wonderful Citrus][3]
 
-Attorneys
+## Attorneys
 
 * [Gaytan Law Firm, PLLC][4]
 * [King, Guerra, Davis & Garcia][5]
 
-Air Conditioning
+## Air Conditioning
 
 * [Atlas Electrical and A/C][6]
 
-Automotive
+## Automotive
 
 * [Superior Oil Express][7]
 
-Business Printing and Shipping
+## Business Printing and Shipping
 
-* [PostNet 143][8]
+* [National Printing][8]
+* [PostNet 143][9]
 
-Construction
+## Construction
 
-* [Charisma Construction][9]
+* [Charisma Construction][10]
 
-Electrical
+## Electrical
 
 * [Atlas Electrical and A/C][6]
-* [Thompson's Electric Service][10]
+* [Thompson's Electric Service][11]
 
-Equipment
+## Equipment
 
-* [MAE Power Equipment][11]
+* [MAE Power Equipment][12]
 
 Plumbing
 
@@ -65,7 +66,8 @@ Refrigeration
 [5]: http://missionlaw.com/ "Mission Law"
 [6]: http://atlasrgv.com/ "Atlas Electrical & A/C"
 [7]: https://www.facebook.com/SuperiorOilExpress/ "Superior Oil Express"
-[8]: http://www.postnet.com/mission-tx143 "PostNet"
-[9]: http://directory.missionchamber.com/listing/charisma-construction/ "Charisma Construction"
-[10]: http://directory.missionchamber.com/listing/thompsons-electric-service/ "Thompson's Electric Service"
-[11]: http://www.maepower.com/ "Mission Auto Electric Power Equipment"
+[8]: https://www.facebook.com/National-Printing-512849568772900/ "National Printing"
+[9]: http://www.postnet.com/mission-tx143 "PostNet"
+[10]: http://directory.missionchamber.com/listing/charisma-construction/ "Charisma Construction"
+[11]: http://directory.missionchamber.com/listing/thompsons-electric-service/ "Thompson's Electric Service"
+[12]: http://www.maepower.com/ "Mission Auto Electric Power Equipment"
