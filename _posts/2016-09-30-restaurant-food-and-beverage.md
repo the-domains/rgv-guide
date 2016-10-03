@@ -1,12 +1,12 @@
 ---
 title: 'Restaurant, Food, and Beverage'
-datePublished: '2016-10-03T17:48:38.158Z'
-dateModified: '2016-10-03T17:48:19.491Z'
+datePublished: '2016-10-03T18:29:04.653Z'
+dateModified: '2016-10-03T18:27:10.676Z'
 publisher: {}
 author: []
 inFeed: false
 hasPage: true
-description: ''
+description: Bar
 via: {}
 starred: false
 sourcePath: _posts/2016-09-30-restaurant-food-and-beverage.md
@@ -20,6 +20,8 @@ _type: Blurb
 
 * [Pasteles Blankita][0]
 
+Bar
+
 ## Fast Food
 
 * Burger King
@@ -29,7 +31,9 @@ _type: Blurb
 * Pizza Hut
 * Stars Drive In
 * Subway
-* ## Food
+* Whataburger
+
+## Food
 
 * [Growers Select Produce][1]
 
@@ -44,6 +48,10 @@ _type: Blurb
 * [The Riverside Club][8]
 * [Yoko's Sushi Bar][9]
 
+## Sea Food
+
+* [Los Pescadores Restaurant][10]
+
 [0]: http://www.pastelesblankita.com/ "Pasteles Blankita"
 [1]: http://directory.missionchamber.com/listing/growers-select-produce-inc/ "Growers Select Produce"
 [2]: https://www.facebook.com/Dannys-Mexican-Restaurant-126251037393158/ "Danny's Mexican Restaurant - Facebook"
@@ -54,3 +62,4 @@ _type: Blurb
 [7]: http://mytacoole.com/ "Taco Ole"
 [8]: http://www.ontheriver.net/ "The Riverside Club"
 [9]: http://www.yokossushibar.com/ "Yoko's Sushi Bar"
+[10]: https://www.facebook.com/pages/Los-Pescadores/117216778296511 "Los Pescadores"
