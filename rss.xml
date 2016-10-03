@@ -4,9 +4,9 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 15:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2016 15:47:07 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Oct 2016 15:46:35 GMT</pubDate>
+        <pubDate>Mon, 03 Oct 2016 15:46:51 GMT</pubDate>
         <item>
             <title><![CDATA[Business Directory]]></title>
             <description><![CDATA[<h1>Business Directory</h1>]]></description>
@@ -36,18 +36,18 @@
             <pubDate>Mon, 03 Oct 2016 15:46:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[History]]></title>
+            <description><![CDATA[<article><h1>History</h1><p>The City of Mission gets its name from a Catholic Mission like this one.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6043bfd-a7f0-4c73-a6cd-7a4eb57c8edf.jpg"></article>]]></description>
+            <link>http://missiontexas.net/history/index.html</link>
+            <guid isPermaLink="false">fc1b2c87-64c0-4e77-a59e-303bde9975c1</guid>
+            <pubDate>Mon, 03 Oct 2016 15:46:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[My Summer At CEED: Groundwork for Something Great]]></title>
             <description><![CDATA[<article><h1>My Summer At CEED: Groundwork for Something Great</h1><p>This Summer, which I realize is still ongoing here in Mission with our subtropical weather, I spent my days at the new Center for Education and Economic Development. It is otherwise known as CEED. I have not asked if the name is a play on words.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/83510563b99e7539fe152b32c35b4e72/noop.jpg?input=https%3A%2F%2F4.bp.blogspot.com%2F-hSAEQFLpVcs%2FV-yHzT7WVtI%2FAAAAAAABVXo%2FcDaImpqp5a0WHGxnvz2LWDDU8Q39ke0ggCLcB%2Fw1200-h630-p-nu%2FIMG_20160908_093522.jpg"></article>]]></description>
             <link>http://blog.missiontexas.net/2016/09/my-summer-at-ceed-groundwork-for.html</link>
             <guid isPermaLink="false">9980ac26-1cbf-473d-b525-732e3ec5e31c</guid>
             <pubDate>Sat, 01 Oct 2016 04:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[History]]></title>
-            <description><![CDATA[<article><h1>History</h1><p>The City of Mission gets its name from a Catholic Mission like this one.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6043bfd-a7f0-4c73-a6cd-7a4eb57c8edf.jpg"></article>]]></description>
-            <link>http://missiontexas.net/history/index.html</link>
-            <guid isPermaLink="false">fc1b2c87-64c0-4e77-a59e-303bde9975c1</guid>
-            <pubDate>Mon, 03 Oct 2016 15:41:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
