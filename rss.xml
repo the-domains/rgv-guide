@@ -4,16 +4,9 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 15:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2016 15:41:51 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Oct 2016 15:40:56 GMT</pubDate>
-        <item>
-            <title><![CDATA[Upcoming Events]]></title>
-            <description><![CDATA[<article><h1>Upcoming Events</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47d6c16e-f38a-4814-bb80-35b698836f0e.jpg"></article>]]></description>
-            <link>http://missiontexas.net/upcoming-events/index.html</link>
-            <guid isPermaLink="false">0974496f-6a2c-4383-8db9-dd338fbe0d85</guid>
-            <pubDate>Mon, 03 Oct 2016 15:40:29 GMT</pubDate>
-        </item>
+        <pubDate>Mon, 03 Oct 2016 15:41:15 GMT</pubDate>
         <item>
             <title><![CDATA[History]]></title>
             <description><![CDATA[<article><h1>History</h1><p>The City of Mission gets its name from a Catholic Mission like this one.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6043bfd-a7f0-4c73-a6cd-7a4eb57c8edf.jpg"></article>]]></description>
@@ -41,6 +34,13 @@
             <link>http://missiontexas.net/advertise/index.html</link>
             <guid isPermaLink="false">62a7e29a-68bf-4813-9511-ab6337958c30</guid>
             <pubDate>Mon, 03 Oct 2016 15:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Upcoming Events]]></title>
+            <description><![CDATA[<article><h1>Upcoming Events</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47d6c16e-f38a-4814-bb80-35b698836f0e.jpg"></article>]]></description>
+            <link>http://missiontexas.net/upcoming-events/index.html</link>
+            <guid isPermaLink="false">0974496f-6a2c-4383-8db9-dd338fbe0d85</guid>
+            <pubDate>Mon, 03 Oct 2016 15:41:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Activities]]></title>
