@@ -1,7 +1,7 @@
 ---
 title: 'Restaurant, Food, and Beverage'
-datePublished: '2016-10-03T17:20:22.205Z'
-dateModified: '2016-10-03T17:19:52.961Z'
+datePublished: '2016-10-03T17:31:34.403Z'
+dateModified: '2016-10-03T17:31:27.522Z'
 publisher: {}
 author: []
 inFeed: false
@@ -19,6 +19,12 @@ _type: Blurb
 ## Bakery
 
 * [Pasteles Blankita][0]
+
+## Fast Food 
+
+* Burger KinM
+* McDonald's
+* Subway
 
 ## Food
 
