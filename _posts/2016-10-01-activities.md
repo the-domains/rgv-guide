@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-03T15:40:55.836Z'
+datePublished: '2016-10-03T15:46:35.003Z'
 sourcePath: _posts/2016-10-01-activities.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T15:40:55.200Z'
+dateModified: '2016-10-03T15:46:34.500Z'
 title: Activities
 publisher: {}
 description: ''
