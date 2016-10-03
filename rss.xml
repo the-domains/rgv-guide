@@ -4,15 +4,15 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 15:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2016 15:27:14 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Oct 2016 15:25:34 GMT</pubDate>
+        <pubDate>Mon, 03 Oct 2016 15:27:13 GMT</pubDate>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<article><h1>Welcome</h1><p>Thank you for visiting MissionTexas.net, a site dedicated to providing information about the City of Mission, Texas.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57cd3327-97bd-417a-8a81-75756aaa7363.jpg"></article>]]></description>
-            <link>http://missiontexas.net/welcome/index.html</link>
-            <guid isPermaLink="false">74ffe391-d49f-41e6-ad19-1b770a6398a9</guid>
-            <pubDate>Sat, 01 Oct 2016 15:35:53 GMT</pubDate>
+            <title><![CDATA[Activities]]></title>
+            <description><![CDATA[<article><h1>Activities</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d43ed13-e854-471d-8b44-2c213feb013c.jpg"></article>]]></description>
+            <link>http://missiontexas.net/activities/index.html</link>
+            <guid isPermaLink="false">449bf259-60ee-4e72-9d4a-9ad9288ac175</guid>
+            <pubDate>Mon, 03 Oct 2016 15:27:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Upcoming Events]]></title>
@@ -22,18 +22,18 @@
             <pubDate>Sat, 01 Oct 2016 17:26:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Activities]]></title>
-            <description><![CDATA[<article><h1>Activities</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d43ed13-e854-471d-8b44-2c213feb013c.jpg"></article>]]></description>
-            <link>http://missiontexas.net/activities/index.html</link>
-            <guid isPermaLink="false">449bf259-60ee-4e72-9d4a-9ad9288ac175</guid>
-            <pubDate>Sat, 01 Oct 2016 17:12:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[History]]></title>
             <description><![CDATA[<article><h1>History</h1><p>The City of Mission gets its name from a Catholic Mission like this one.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6043bfd-a7f0-4c73-a6cd-7a4eb57c8edf.jpg"></article>]]></description>
             <link>http://missiontexas.net/history/index.html</link>
             <guid isPermaLink="false">fc1b2c87-64c0-4e77-a59e-303bde9975c1</guid>
             <pubDate>Sat, 01 Oct 2016 06:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Thank you for visiting MissionTexas.net, a site dedicated to providing information about the City of Mission, Texas.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57cd3327-97bd-417a-8a81-75756aaa7363.jpg"></article>]]></description>
+            <link>http://missiontexas.net/welcome/index.html</link>
+            <guid isPermaLink="false">74ffe391-d49f-41e6-ad19-1b770a6398a9</guid>
+            <pubDate>Mon, 03 Oct 2016 15:27:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Business Directory]]></title>
