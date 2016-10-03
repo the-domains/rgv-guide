@@ -1,7 +1,7 @@
 ---
 title: Healthcare
-datePublished: '2016-10-03T17:34:34.000Z'
-dateModified: '2016-10-03T17:34:29.341Z'
+datePublished: '2016-10-03T18:55:32.937Z'
+dateModified: '2016-10-03T18:55:30.865Z'
 publisher: {}
 author: []
 inFeed: false
@@ -30,6 +30,10 @@ Hospitals
 
 Laboratories
 
+## Maternity / Midwife
+
+* [Mission Maternity Clinic][1]
+
 Optometry and Opthalmology
 
 Pharmacies
@@ -39,3 +43,4 @@ Therapy
 Wellness
 
 [0]: https://www.facebook.com/thesmileshoppe/ "The Smile Shoppe"
+[1]: http://missionmaternityclinic.com/ "Mission Maternity Clinic"
