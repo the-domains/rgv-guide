@@ -1,12 +1,12 @@
 ---
 title: Business and Professional Services
-datePublished: '2016-10-03T19:23:13.011Z'
-dateModified: '2016-10-03T19:23:09.482Z'
+datePublished: '2016-10-03T19:24:27.809Z'
+dateModified: '2016-10-03T19:24:24.233Z'
 publisher: {}
 author: []
 inFeed: false
 hasPage: true
-description: Plumbing
+description: ''
 via: {}
 starred: false
 sourcePath: _posts/2016-09-30-business-and-professional-services.md
@@ -54,11 +54,11 @@ _type: Blurb
 
 * [MAE Power Equipment][12]
 
-Plumbing
+## Plumbing
 
 * [Almighty Plumbing and Rooter Service][13]
 
-Refrigeration
+## Refrigeration
 
 [0]: https://www.facebook.com/SuperiorOilExpress/ "Texas Citrus Pest & Disease Management"
 [1]: http://riograndejuice.com/ "Rio Grande Juice Company"
