@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-03T15:30:03.796Z'
+datePublished: '2016-10-03T15:30:30.645Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T15:30:02.853Z'
+dateModified: '2016-10-03T15:30:29.660Z'
 title: Running and Jogging
 publisher: {}
 description: >-
