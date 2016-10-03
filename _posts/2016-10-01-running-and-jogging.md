@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-10-01T17:09:55.748Z'
+datePublished: '2016-10-03T15:28:12.821Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T17:09:52.523Z'
+dateModified: '2016-10-03T15:28:11.811Z'
 title: Running and Jogging
 publisher: {}
 description: >-
   Be careful about running or jogging in the summertime. Summers in South Texas
   are very hot, with temperatures over 100 degrees Fahrenheit. Any running is
   recommended in the early hours or late afternoon.
-starred: false
 sourcePath: _posts/2016-10-01-running-and-jogging.md
+starred: false
 url: running-and-jogging/index.html
 _context: 'http://schema.org'
 _type: Article
