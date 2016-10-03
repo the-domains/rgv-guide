@@ -1,24 +1,25 @@
 ---
-datePublished: '2016-10-01T01:43:12.355Z'
-sourcePath: _posts/2016-09-30-community.md
+title: Community
+datePublished: '2016-10-03T19:00:20.263Z'
+dateModified: '2016-10-03T19:00:19.092Z'
+publisher: {}
+author: []
 inFeed: false
 hasPage: true
-author: []
+description: Government
 via: {}
-dateModified: '2016-10-01T01:42:33.479Z'
-title: Community
-publisher: {}
-description: Churches
 starred: false
+sourcePath: _posts/2016-09-30-community.md
 url: community/index.html
 _type: Blurb
 
 ---
 # Community
 
-Churches
+## Churches
 
 * [Freedom Life Church][0]
+* Ministerios Rosa de Sarón: 956-225-5758 
 * [North Mission Church of Christ][1]
 
 Government
