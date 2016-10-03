@@ -1,6 +1,6 @@
 ---
 title: Bird Watching
-dateModified: '2016-10-03T15:28:11.811Z'
+dateModified: '2016-10-03T15:30:02.853Z'
 publisher: {}
 author: []
 inFeed: false
@@ -11,7 +11,7 @@ description: >-
   back yards and city trees. However, for a more natural setting and greater
   variety of birds, birders prefer to visit some of the more natural areas.
 via: {}
-datePublished: '2016-10-03T15:28:12.820Z'
+datePublished: '2016-10-03T15:30:03.797Z'
 sourcePath: _posts/2016-10-01-bird-watching.md
 starred: false
 url: bird-watching/index.html
