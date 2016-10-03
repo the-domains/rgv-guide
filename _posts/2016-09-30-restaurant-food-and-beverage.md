@@ -1,7 +1,7 @@
 ---
 title: 'Restaurant, Food, and Beverage'
-datePublished: '2016-10-03T18:29:04.653Z'
-dateModified: '2016-10-03T18:27:10.676Z'
+datePublished: '2016-10-03T18:35:22.474Z'
+dateModified: '2016-10-03T18:35:19.678Z'
 publisher: {}
 author: []
 inFeed: false
@@ -45,12 +45,13 @@ Bar
 * [La Fruteria][5]
 * [Luau Drive In][6]
 * [Taco Ole][7]
-* [The Riverside Club][8]
-* [Yoko's Sushi Bar][9]
+* [Taqueria Rio Bravo][8]
+* [The Riverside Club][9]
+* [Yoko's Sushi Bar][10]
 
 ## Sea Food
 
-* [Los Pescadores Restaurant][10]
+* [Los Pescadores Restaurant][11]
 
 [0]: http://www.pastelesblankita.com/ "Pasteles Blankita"
 [1]: http://directory.missionchamber.com/listing/growers-select-produce-inc/ "Growers Select Produce"
@@ -60,6 +61,7 @@ Bar
 [5]: https://www.facebook.com/La-Fruteria-100415396723373/ "La Fruteria"
 [6]: https://www.facebook.com/pages/Luau-Drive-Inn/116287918400110 "Luau Drive In Restaurant"
 [7]: http://mytacoole.com/ "Taco Ole"
-[8]: http://www.ontheriver.net/ "The Riverside Club"
-[9]: http://www.yokossushibar.com/ "Yoko's Sushi Bar"
-[10]: https://www.facebook.com/pages/Los-Pescadores/117216778296511 "Los Pescadores"
+[8]: https://www.facebook.com/Taqueria-Río-Bravo-247806698701911/ "Taqueria Rio Bravo"
+[9]: http://www.ontheriver.net/ "The Riverside Club"
+[10]: http://www.yokossushibar.com/ "Yoko's Sushi Bar"
+[11]: https://www.facebook.com/pages/Los-Pescadores/117216778296511 "Los Pescadores"
