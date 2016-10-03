@@ -4,23 +4,9 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 15:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2016 15:34:47 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Oct 2016 15:31:33 GMT</pubDate>
-        <item>
-            <title><![CDATA[Business Directory]]></title>
-            <description><![CDATA[<h1>Business Directory</h1>]]></description>
-            <link>http://missiontexas.net/categories/index.html</link>
-            <guid isPermaLink="false">68ebd1a1-1948-486c-bd75-d7f8b54ac140</guid>
-            <pubDate>Mon, 03 Oct 2016 15:30:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advertise]]></title>
-            <description><![CDATA[<article><h1>Advertise</h1><p>Advertise with MissionTexas.net</p></article>]]></description>
-            <link>http://missiontexas.net/advertise/index.html</link>
-            <guid isPermaLink="false">62a7e29a-68bf-4813-9511-ab6337958c30</guid>
-            <pubDate>Mon, 03 Oct 2016 15:30:30 GMT</pubDate>
-        </item>
+        <pubDate>Mon, 03 Oct 2016 15:34:31 GMT</pubDate>
         <item>
             <title><![CDATA[Activities]]></title>
             <description><![CDATA[<article><h1>Activities</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d43ed13-e854-471d-8b44-2c213feb013c.jpg"></article>]]></description>
@@ -41,6 +27,20 @@
             <link>http://missiontexas.net/history/index.html</link>
             <guid isPermaLink="false">fc1b2c87-64c0-4e77-a59e-303bde9975c1</guid>
             <pubDate>Sat, 01 Oct 2016 06:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Business Directory]]></title>
+            <description><![CDATA[<h1>Business Directory</h1>]]></description>
+            <link>http://missiontexas.net/categories/index.html</link>
+            <guid isPermaLink="false">68ebd1a1-1948-486c-bd75-d7f8b54ac140</guid>
+            <pubDate>Mon, 03 Oct 2016 15:34:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Advertise]]></title>
+            <description><![CDATA[<article><h1>Advertise</h1><p>Advertise with MissionTexas.net</p></article>]]></description>
+            <link>http://missiontexas.net/advertise/index.html</link>
+            <guid isPermaLink="false">62a7e29a-68bf-4813-9511-ab6337958c30</guid>
+            <pubDate>Mon, 03 Oct 2016 15:34:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My Summer At CEED: Groundwork for Something Great]]></title>
