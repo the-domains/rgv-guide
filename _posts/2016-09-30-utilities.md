@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-03T16:20:48.328Z'
+datePublished: '2016-10-03T16:22:47.962Z'
 sourcePath: _posts/2016-09-30-utilities.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T16:20:38.567Z'
+dateModified: '2016-10-03T16:22:38.261Z'
 title: Utilities
 publisher: {}
 description: Electricity
@@ -24,6 +24,8 @@ Electricity
 * [Magic Valley Electric Co-Op][3]
 
 Gas
+
+* Texas Gas Service 
 
 Internet Service
 
