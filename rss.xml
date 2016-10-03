@@ -4,16 +4,9 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 15:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2016 15:38:11 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Oct 2016 15:37:53 GMT</pubDate>
-        <item>
-            <title><![CDATA[Business Directory]]></title>
-            <description><![CDATA[<h1>Business Directory</h1>]]></description>
-            <link>http://missiontexas.net/categories/index.html</link>
-            <guid isPermaLink="false">68ebd1a1-1948-486c-bd75-d7f8b54ac140</guid>
-            <pubDate>Mon, 03 Oct 2016 15:37:51 GMT</pubDate>
-        </item>
+        <pubDate>Mon, 03 Oct 2016 15:38:10 GMT</pubDate>
         <item>
             <title><![CDATA[Advertise]]></title>
             <description><![CDATA[<article><h1>Advertise</h1><p>Advertise with MissionTexas.net</p></article>]]></description>
@@ -48,6 +41,13 @@
             <link>http://blog.missiontexas.net/2016/09/my-summer-at-ceed-groundwork-for.html</link>
             <guid isPermaLink="false">9980ac26-1cbf-473d-b525-732e3ec5e31c</guid>
             <pubDate>Sat, 01 Oct 2016 04:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Business Directory]]></title>
+            <description><![CDATA[<h1>Business Directory</h1>]]></description>
+            <link>http://missiontexas.net/categories/index.html</link>
+            <guid isPermaLink="false">68ebd1a1-1948-486c-bd75-d7f8b54ac140</guid>
+            <pubDate>Mon, 03 Oct 2016 15:38:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
