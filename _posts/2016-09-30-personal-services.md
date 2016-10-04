@@ -1,15 +1,15 @@
 ---
-title: Personal Services
-datePublished: '2016-10-03T18:41:10.087Z'
-dateModified: '2016-10-03T18:41:05.949Z'
-publisher: {}
-author: []
+datePublished: '2016-10-04T15:02:28.029Z'
+sourcePath: _posts/2016-09-30-personal-services.md
 inFeed: false
 hasPage: true
-description: ''
+author: []
 via: {}
+dateModified: '2016-10-04T15:02:13.294Z'
+title: Personal Services
+publisher: {}
+description: ''
 starred: false
-sourcePath: _posts/2016-09-30-personal-services.md
 url: personal-services/index.html
 _type: Blurb
 
@@ -23,6 +23,10 @@ _type: Blurb
 ## Beauty Salon
 
 * [Le Rose Salon][1]
+
+## Grocery Shopping 
+
+* Ranvu 
 
 ## Massage
 
