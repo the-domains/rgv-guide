@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-01T02:13:42.885Z'
+datePublished: '2016-10-04T14:52:15.965Z'
 sourcePath: _posts/2016-09-30-finance-and-insurance.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-01T02:13:02.085Z'
+dateModified: '2016-10-04T14:51:57.588Z'
 title: Finance and Insurance
 publisher: {}
 description: Banks
@@ -36,6 +36,7 @@ Insurance
 * [Mission Duncan Insurance Agency][9]
 * [Pete Jaramillo Insurance Services][10]
 * [State Farm Insurance - Jerry Saenz][11]
+* Joel Bazan Insurance Agency - Farmers Insurance 
 
 Money Exchange
 
