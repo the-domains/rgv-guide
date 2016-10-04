@@ -1,15 +1,15 @@
 ---
-title: Business and Professional Services
-datePublished: '2016-10-03T19:24:27.809Z'
-dateModified: '2016-10-03T19:24:24.233Z'
-publisher: {}
-author: []
+datePublished: '2016-10-04T14:47:54.524Z'
+sourcePath: _posts/2016-09-30-business-and-professional-services.md
 inFeed: false
 hasPage: true
-description: ''
+author: []
 via: {}
+dateModified: '2016-10-04T14:47:43.861Z'
+title: Business and Professional Services
+publisher: {}
+description: ''
 starred: false
-sourcePath: _posts/2016-09-30-business-and-professional-services.md
 url: business-and-professional-services/index.html
 _type: Blurb
 
@@ -43,20 +43,21 @@ _type: Blurb
 
 ## Construction
 
-* [Charisma Construction][10]
+* [Caltia Construction][10]
+* [Charisma Construction][11]
 
 ## Electrical
 
 * [Atlas Electrical and A/C][6]
-* [Thompson's Electric Service][11]
+* [Thompson's Electric Service][12]
 
 ## Equipment
 
-* [MAE Power Equipment][12]
+* [MAE Power Equipment][13]
 
 ## Plumbing
 
-* [Almighty Plumbing and Rooter Service][13]
+* [Almighty Plumbing and Rooter Service][14]
 
 ## Refrigeration
 
@@ -70,7 +71,8 @@ _type: Blurb
 [7]: https://www.facebook.com/SuperiorOilExpress/ "Superior Oil Express"
 [8]: https://www.facebook.com/National-Printing-512849568772900/ "National Printing"
 [9]: http://www.postnet.com/mission-tx143 "PostNet"
-[10]: http://directory.missionchamber.com/listing/charisma-construction/ "Charisma Construction"
-[11]: http://directory.missionchamber.com/listing/thompsons-electric-service/ "Thompson's Electric Service"
-[12]: http://www.maepower.com/ "Mission Auto Electric Power Equipment"
-[13]: https://g.co/kgs/WOx19g "Almighty Plumbing"
+[10]: http://caltiaconstruction.com/ "Caltia Construction"
+[11]: http://directory.missionchamber.com/listing/charisma-construction/ "Charisma Construction"
+[12]: http://directory.missionchamber.com/listing/thompsons-electric-service/ "Thompson's Electric Service"
+[13]: http://www.maepower.com/ "Mission Auto Electric Power Equipment"
+[14]: https://g.co/kgs/WOx19g "Almighty Plumbing"
