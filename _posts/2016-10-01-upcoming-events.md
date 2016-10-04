@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-04T03:51:34.353Z'
+datePublished: '2016-10-04T03:53:32.788Z'
 sourcePath: _posts/2016-10-01-upcoming-events.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-04T03:49:06.798Z'
+dateModified: '2016-10-04T03:53:08.885Z'
 title: Upcoming Events
 publisher: {}
 description: 'October 13, 2016 at 6 P.M. '
@@ -25,7 +25,7 @@ _type: Article
 ![October 29 to November 1, 2016 at the National Butterfly Center](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47d6c16e-f38a-4814-bb80-35b698836f0e.jpg)
 ![October 31st from 6 P.M. to 9 P.M. at the Mission Historical Museum](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fbb96ae-28a4-49d0-87bc-281dd9dc9da5.jpg)
 
-* * [Arelis Event Center Ribbon Cutting][0] - Oct 5 5:30 pm
+* [Arelis Event Center Ribbon Cutting][0] - Oct 5 5:30 pm
 * [Ramji & Associates Ribbon Cutting][1] - Oct 11 10:30 am
 * [Bert Ogden Kia Grand Opening & Ribbon Cutting][2] - Oct 11 6 pm
 * [Greater Mission Chamber of Commerce: 2016 Annual Banquet][3] - Oct 13 6 pm
