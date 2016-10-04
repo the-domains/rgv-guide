@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-04T03:42:22.881Z'
+datePublished: '2016-10-04T03:51:34.353Z'
 sourcePath: _posts/2016-10-01-upcoming-events.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-04T03:42:15.637Z'
+dateModified: '2016-10-04T03:49:06.798Z'
 title: Upcoming Events
 publisher: {}
 description: 'October 13, 2016 at 6 P.M. '
@@ -17,9 +17,10 @@ _type: Article
 # Upcoming Events
 ![October 13, 2016 at 6 P.M. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52eefe56-d13d-4a75-994b-9450e7226be9.jpg)
 
+## October
+
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e95b17a-d2ac-458f-b3df-730fece5a016.jpg" /><h1>Ghosts of the Rio Grande Valley</h1><p>By Dr. David Bowles Saturday October 15, 2016 at 11 A.M. at the Mission Historical Museum</p></article>
 
-## October
 ![Saturday October 22, 2016 at 6 P.M. at the Mission Historical Museum](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c1873cb-96e5-4d2a-bbc0-f6fe796b4fa6.jpg)
 ![October 29 to November 1, 2016 at the National Butterfly Center](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47d6c16e-f38a-4814-bb80-35b698836f0e.jpg)
 ![October 31st from 6 P.M. to 9 P.M. at the Mission Historical Museum](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fbb96ae-28a4-49d0-87bc-281dd9dc9da5.jpg)
