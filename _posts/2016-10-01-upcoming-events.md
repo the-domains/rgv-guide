@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-10-03T19:49:12.743Z'
-sourcePath: _posts/2016-10-01-upcoming-events.md
+title: Upcoming Events
+datePublished: '2016-10-04T03:25:47.585Z'
+dateModified: '2016-10-04T03:25:37.254Z'
+publisher: {}
+author: []
 inFeed: true
 hasPage: true
-author: []
-via: {}
-dateModified: '2016-10-03T19:48:51.747Z'
-title: Upcoming Events
-publisher: {}
 description: ''
+via: {}
 starred: false
+sourcePath: _posts/2016-10-01-upcoming-events.md
 url: upcoming-events/index.html
 _type: Article
 
@@ -18,9 +18,14 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47d6c16e-f38a-4814-bb80-35b698836f0e.jpg)
 
 ## October
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e95b17a-d2ac-458f-b3df-730fece5a016.jpg" /><h1>Ghosts of the Rio Grande Valley</h1></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c1873cb-96e5-4d2a-bbc0-f6fe796b4fa6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fbb96ae-28a4-49d0-87bc-281dd9dc9da5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52eefe56-d13d-4a75-994b-9450e7226be9.jpg)
 
-* [Arelis Event Center Ribbon Cutting][0] - Oct 5 5:30 pm
+* * [Arelis Event Center Ribbon Cutting][0] - Oct 5 5:30 pm
 * [Ramji & Associates Ribbon Cutting][1] - Oct 11 10:30 am
 * [Bert Ogden Kia Grand Opening & Ribbon Cutting][2] - Oct 11 6 pm
 * [Greater Mission Chamber of Commerce: 2016 Annual Banquet][3] - Oct 13 6 pm
