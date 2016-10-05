@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-03T15:46:35.003Z'
+datePublished: '2016-10-05T19:37:20.262Z'
 sourcePath: _posts/2016-10-01-activities.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T15:46:34.500Z'
+dateModified: '2016-10-05T19:36:36.154Z'
 title: Activities
 publisher: {}
 description: ''
@@ -21,12 +21,13 @@ _type: Article
 * Biking
 * [Bird watching][0]
 * [Fishing][1]
-* Golf
-* [Running and Jogging][2]
-* [Kayaking][3]
+* [Golf][2]
+* [Running and Jogging][3]
+* [Kayaking][4]
 * Skating
 
 [0]: http://missiontexas.net/bird-watching/ "Bird Watching in Mission, Texas"
 [1]: http://missiontexas.net/fishing/ "Fishing in Mission, Texas"
-[2]: http://missiontexas.net/running-and-jogging/ "Running and Jogging in Mission, Texas"
-[3]: http://missiontexas.net/kayaking/ "Kayaking in Mission, Texas"
+[2]: http://missiontexas.net/golf/ "Golf in Mission, Texas"
+[3]: http://missiontexas.net/running-and-jogging/ "Running and Jogging in Mission, Texas"
+[4]: http://missiontexas.net/kayaking/ "Kayaking in Mission, Texas"
