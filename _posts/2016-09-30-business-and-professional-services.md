@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-04T14:47:56.194Z'
+datePublished: '2016-10-05T16:56:43.350Z'
 sourcePath: _posts/2016-09-30-business-and-professional-services.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-04T14:47:55.880Z'
+dateModified: '2016-10-05T16:56:21.412Z'
 title: Business and Professional Services
 publisher: {}
 description: ''
@@ -41,23 +41,27 @@ _type: Blurb
 * [National Printing][8]
 * [PostNet 143][9]
 
+## Computer Repair 
+
+* [Mission Computer Repair][10]
+
 ## Construction
 
-* [Caltia Construction][10]
-* [Charisma Construction][11]
+* [Caltia Construction][11]
+* [Charisma Construction][12]
 
 ## Electrical
 
 * [Atlas Electrical and A/C][6]
-* [Thompson's Electric Service][12]
+* [Thompson's Electric Service][13]
 
 ## Equipment
 
-* [MAE Power Equipment][13]
+* [MAE Power Equipment][14]
 
 ## Plumbing
 
-* [Almighty Plumbing and Rooter Service][14]
+* [Almighty Plumbing and Rooter Service][15]
 
 ## Refrigeration
 
@@ -71,8 +75,9 @@ _type: Blurb
 [7]: https://www.facebook.com/SuperiorOilExpress/ "Superior Oil Express"
 [8]: https://www.facebook.com/National-Printing-512849568772900/ "National Printing"
 [9]: http://www.postnet.com/mission-tx143 "PostNet"
-[10]: http://caltiaconstruction.com/ "Caltia Construction"
-[11]: http://directory.missionchamber.com/listing/charisma-construction/ "Charisma Construction"
-[12]: http://directory.missionchamber.com/listing/thompsons-electric-service/ "Thompson's Electric Service"
-[13]: http://www.maepower.com/ "Mission Auto Electric Power Equipment"
-[14]: https://g.co/kgs/WOx19g "Almighty Plumbing"
+[10]: http://www.computerrepairmissiontx.com/ "Mission Computer Repair"
+[11]: http://caltiaconstruction.com/ "Caltia Construction"
+[12]: http://directory.missionchamber.com/listing/charisma-construction/ "Charisma Construction"
+[13]: http://directory.missionchamber.com/listing/thompsons-electric-service/ "Thompson's Electric Service"
+[14]: http://www.maepower.com/ "Mission Auto Electric Power Equipment"
+[15]: https://g.co/kgs/WOx19g "Almighty Plumbing"
