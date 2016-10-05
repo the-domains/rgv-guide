@@ -4,9 +4,9 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 05 Oct 2016 19:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2016 19:44:33 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Oct 2016 19:37:20 GMT</pubDate>
+        <pubDate>Wed, 05 Oct 2016 19:44:18 GMT</pubDate>
         <item>
             <title><![CDATA[Business Directory]]></title>
             <description><![CDATA[<h1>Business Directory</h1>]]></description>
@@ -41,6 +41,13 @@
             <link>http://missiontexas.net/history/index.html</link>
             <guid isPermaLink="false">fc1b2c87-64c0-4e77-a59e-303bde9975c1</guid>
             <pubDate>Mon, 03 Oct 2016 15:46:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biking]]></title>
+            <description><![CDATA[<article><h1>Biking</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97b11b92-c847-41e7-82bb-1d47ca3e7045.jpg"></article>]]></description>
+            <link>http://missiontexas.net/biking/index.html</link>
+            <guid isPermaLink="false">a67080c2-af3e-43f2-ac84-ba9db3773de2</guid>
+            <pubDate>Wed, 05 Oct 2016 19:43:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Golf]]></title>
