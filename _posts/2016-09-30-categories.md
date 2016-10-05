@@ -1,14 +1,11 @@
 ---
-datePublished: '2016-10-05T19:09:55.604Z'
+datePublished: '2016-10-05T19:11:06.232Z'
 sourcePath: _posts/2016-09-30-categories.md
 inFeed: true
 hasPage: true
 author: []
-via:
-  name: Flickr
-  url: >-
-    https://www.flickr.com/photos/dfwcre8tive/5716858716/in/photolist-9HboVA-7eorda-658Key-7ShfNJ-7rNLdi-95yRhu-8HzDiP-dopjJD-6eMSU8-4qjLgx-7SeaS4-6pvhLc-7She1w-9htgQN-3XUpLT-kngR8f-fMkwFM-64v7ki-4AhVas-gGreuE-gGruRx-gGrxse-gGsm4D-gGrz1z-8BvCVS-gGrjCW-ehKCAG-cM9X5b-rYZCuJ-7L8KhH-4aEz4r-4FWbou-sgvHVi-7LcHVj-eg48PT-gGshBP-4Ai26y-9MGV7Y-gGrGfW-5vovdU-bQg2fP-74WpyB-C1G14-9cFQWz-5gyBvf-7LcHSQ-64tHJ1-7LcHXL-i1KKtq-7LcHQf
-dateModified: '2016-10-05T19:09:47.697Z'
+via: {}
+dateModified: '2016-10-05T19:11:05.539Z'
 title: Business Directory
 publisher: {}
 description: ''
@@ -18,7 +15,6 @@ _type: Article
 
 ---
 # Business Directory
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5580df81-d89a-418f-a7ae-53505ac4ce14.jpg)
 
 * [Advertising and Media][0]
 * [Arts, Culture, and Entertainment][1]
