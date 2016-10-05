@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-05T18:42:21.110Z'
+datePublished: '2016-10-05T18:42:22.859Z'
 sourcePath: _posts/2016-09-30-advertise.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-05T18:42:05.482Z'
+dateModified: '2016-10-05T18:42:22.331Z'
 title: Advertise
 publisher: {}
 description: Advertise with the Mission Texas Guide
