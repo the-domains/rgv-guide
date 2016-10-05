@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-04T14:52:15.965Z'
+datePublished: '2016-10-05T18:57:42.159Z'
 sourcePath: _posts/2016-09-30-finance-and-insurance.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-04T14:51:57.588Z'
+dateModified: '2016-10-04T14:52:17.024Z'
 title: Finance and Insurance
 publisher: {}
 description: Banks
@@ -36,11 +36,11 @@ Insurance
 * [Mission Duncan Insurance Agency][9]
 * [Pete Jaramillo Insurance Services][10]
 * [State Farm Insurance - Jerry Saenz][11]
-* Joel Bazan Insurance Agency - Farmers Insurance 
+* [Joel Bazan Insurance Agency - Farmers Insurance][12]
 
 Money Exchange
 
-* [Texas Money Exchange][12]
+* [Texas Money Exchange][13]
 
 [0]: https://www.bankofsouthtexas.com/ "Bank of South Texas"
 [1]: https://www.bbvacompass.com/ "BBVA Compass"
@@ -54,4 +54,5 @@ Money Exchange
 [9]: http://www.missionduncan.com/ "Mission Duncan Insurance"
 [10]: http://directory.missionchamber.com/listing/pete-jaramillo-insurance-services/ "Pete Jaramillo Insurance Services"
 [11]: https://www.statefarm.com/agent/US/TX/Mission/Jerry-Saenz-YQ30L1YS000 "State Farm Insurance - Jerry Saenz"
-[12]: http://texasmoney.com/web/ "Casa de Cambio Texas Money Exchange"
+[12]: https://agents.farmers.com/tx/mission/joel-bazan "Joel Bazan Insurance Agency"
+[13]: http://texasmoney.com/web/ "Casa de Cambio Texas Money Exchange"
