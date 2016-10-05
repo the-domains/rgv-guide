@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-03T16:41:21.884Z'
+datePublished: '2016-10-05T18:34:32.517Z'
 sourcePath: _posts/2016-09-30-advertise.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-03T16:41:21.242Z'
+dateModified: '2016-10-05T18:34:26.971Z'
 title: Advertise
 publisher: {}
-description: Advertise with MissionTexas.net
+description: Advertise with the Mission Texas Guide
 starred: false
 url: advertise/index.html
 _context: 'http://schema.org'
@@ -17,32 +17,10 @@ _type: Article
 ---
 # Advertise
 
-Advertise with MissionTexas.net
+Advertise with the Mission Texas Guide
 
-## Pricing
+The only requirement to be listed on the Mission Texas Guide is that your business should be in Mission.
 
-$100/Mo Front Page ad
-
-$10/Mo Category Page ad
-
-Free simple listing with link to your website
-
-## Description
-
-### Front Page Ad
-
-A Front Page Ad is actually a full page ad with an image. The front page blurb will link to the full dedicated page for your business.
-
-Your image can be of your business, a coupon graphic, an event announcement, or anything tasteful of your choice.
-
-### Category Page Ad
-
-A regular Page Ad will go at the top of the Business Directory category, or other page related to your business. This is an upgrade from just a bullet and link to your website.
-
-### Free Listing
-
-The only requirement to be listed on the MissionTexas.net guide is that your business should be in Mission.
-
-Fill out the form below with your information to get your listing and/or ad.
+Fill out the form below to request information about advertising on the Mission Texas Guide. 
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzkkOwiAUANCrkH-AMnSwNaUmGg9g4gUY_hcWBAIkXl-j67d5e6RqErJ39D1oOAkBLGB8ha5BCjUD-7nN1WPV8NVWnYbQe2lnzk0pQ0um9hYQ--By4pZTrulyf1xvT61GWudxkx7dMjlH2-oFOYV-mSRZK-DY-X9wfAAWiSwk" height="1050" style=""></iframe>
