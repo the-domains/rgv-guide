@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-05T19:00:24.808Z'
+datePublished: '2016-10-05T19:04:41.549Z'
 sourcePath: _posts/2016-09-30-categories.md
 inFeed: true
 hasPage: true
@@ -8,7 +8,7 @@ author:
     url: >-
       https://www.flickr.com/photos/dfwcre8tive/5716858716/in/photolist-9HboVA-7eorda-658Key-7ShfNJ-7rNLdi-95yRhu-8HzDiP-dopjJD-6eMSU8-4qjLgx-7SeaS4-6pvhLc-7She1w-9htgQN-3XUpLT-kngR8f-fMkwFM-64v7ki-4AhVas-gGreuE-gGruRx-gGrxse-gGsm4D-gGrz1z-8BvCVS-gGrjCW-ehKCAG-cM9X5b-rYZCuJ-7L8KhH-4aEz4r-4FWbou-sgvHVi-7LcHVj-eg48PT-gGshBP-4Ai26y-9MGV7Y-gGrGfW-5vovdU-bQg2fP-74WpyB-C1G14-9cFQWz-5gyBvf-7LcHSQ-64tHJ1-7LcHXL-i1KKtq-7LcHQf
 via: {}
-dateModified: '2016-10-05T18:59:45.725Z'
+dateModified: '2016-10-05T19:04:30.679Z'
 title: Business Directory
 publisher: {}
 description: ''
