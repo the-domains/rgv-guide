@@ -1,5 +1,6 @@
-layout_spectrum: 0.5494005540385842
 typography_spectrum: 0.7113147529307753
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#E8E595'
@@ -11,12 +12,11 @@ color:
   lightness: 0.8235387648032428
   saturation: 0.0939502225795269
   rhythmicContrast: 0.30747255987246935
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.5494005540385842
 author:
   name: Shaine Mata
   url: 'http://www.shainemata.com'
@@ -39,5 +39,5 @@ title: 'Mission, Texas Guide'
 description: 'Find it here '
 purpose:
   - type: internal
-    label: Advertise
+    label: Click Here to Advertise
     item: 62a7e29a-68bf-4813-9511-ab6337958c30
