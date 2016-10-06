@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-06T16:06:56.901Z'
+datePublished: '2016-10-06T16:09:16.100Z'
 sourcePath: _posts/2016-10-01-upcoming-events.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-06T16:06:56.442Z'
+dateModified: '2016-10-06T16:09:04.258Z'
 title: Upcoming Events
 publisher: {}
 description: 'October 13, 2016 at 6 P.M. '
@@ -39,7 +39,7 @@ _type: Article
 
 ## December
 
-## 2017
+# 2017
 
 [2017 Texas Citrus Fiesta][8]
 
