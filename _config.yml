@@ -23,9 +23,6 @@ author:
   email: shaine@shainemata.com
 name: 'Mission, Texas Guide'
 navigation:
-  - name: Advertise
-    id: 62a7e29a-68bf-4813-9511-ab6337958c30
-    type: content
   - name: Contact
     id: f0461174-7e15-4bef-ba42-38ecf644b071
     type: content
