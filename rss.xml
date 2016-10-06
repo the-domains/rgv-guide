@@ -4,9 +4,9 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 06 Oct 2016 14:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2016 14:40:14 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Oct 2016 14:38:13 GMT</pubDate>
+        <pubDate>Thu, 06 Oct 2016 14:39:51 GMT</pubDate>
         <item>
             <title><![CDATA[Business Directory]]></title>
             <description><![CDATA[<h1>Business Directory</h1>]]></description>
@@ -34,6 +34,13 @@
             <link>http://missiontexas.net/history/index.html</link>
             <guid isPermaLink="false">fc1b2c87-64c0-4e77-a59e-303bde9975c1</guid>
             <pubDate>Mon, 03 Oct 2016 15:46:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Featured Businesses]]></title>
+            <description><![CDATA[<article><h1>Featured Businesses</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c176dd4-1f27-4f61-ba9b-a7d3b85f1e3d.png"></article>]]></description>
+            <link>http://missiontexas.net/featured-businesses/index.html</link>
+            <guid isPermaLink="false">dd7c3e19-f125-4de1-b7ad-9930104df6ab</guid>
+            <pubDate>Thu, 06 Oct 2016 14:39:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MissionTexas.net Blog]]></title>
