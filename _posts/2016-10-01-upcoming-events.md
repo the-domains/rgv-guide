@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-06T16:09:16.100Z'
+datePublished: '2016-10-06T16:09:20.775Z'
 sourcePath: _posts/2016-10-01-upcoming-events.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-06T16:09:04.258Z'
+dateModified: '2016-10-06T16:09:20.358Z'
 title: Upcoming Events
 publisher: {}
 description: 'October 13, 2016 at 6 P.M. '
@@ -16,6 +16,8 @@ _type: Article
 ---
 # Upcoming Events
 ![October 13, 2016 at 6 P.M. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52eefe56-d13d-4a75-994b-9450e7226be9.jpg)
+
+# 2016
 
 ## October
 
