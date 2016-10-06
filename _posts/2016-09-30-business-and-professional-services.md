@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-05T16:56:43.350Z'
+datePublished: '2016-10-06T14:34:07.843Z'
 sourcePath: _posts/2016-09-30-business-and-professional-services.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-05T16:56:21.412Z'
+dateModified: '2016-10-06T14:33:36.178Z'
 title: Business and Professional Services
 publisher: {}
 description: ''
@@ -40,8 +40,9 @@ _type: Blurb
 
 * [National Printing][8]
 * [PostNet 143][9]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ddd623e-cb62-442d-a571-d328d64f6830.png)
 
-## Computer Repair 
+## Computer Repair
 
 * [Mission Computer Repair][10]
 
