@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-10-06T14:36:35.810Z'
+datePublished: '2016-10-06T14:39:50.747Z'
+sourcePath: _posts/2016-10-06-featured-businesses.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-06T14:36:19.714Z'
+dateModified: '2016-10-06T14:39:50.363Z'
 title: Featured Businesses
 publisher:
   name: Mission Computer Repair
   url: 'http://www.computerrepairmissiontx.com'
 description: ''
-starred: false
-sourcePath: _posts/2016-10-06-featured-businesses.md
-_type: Blurb
+starred: true
+url: featured-businesses/index.html
+_type: Article
 
 ---
 # Featured Businesses
