@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-06T14:53:02.899Z'
+datePublished: '2016-10-06T17:14:32.730Z'
 sourcePath: _posts/2016-10-06-featured-businesses.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-06T14:52:25.914Z'
+dateModified: '2016-10-06T17:14:32.348Z'
 title: Featured Businesses
 publisher: {}
 description: ''
