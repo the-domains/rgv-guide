@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-05T18:42:22.859Z'
+datePublished: '2016-10-06T14:38:13.042Z'
 sourcePath: _posts/2016-09-30-advertise.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-05T18:42:22.331Z'
+dateModified: '2016-10-06T14:38:12.129Z'
 title: Advertise
 publisher: {}
 description: Advertise with the Mission Texas Guide
@@ -19,7 +19,7 @@ _type: Article
 
 Advertise with the Mission Texas Guide
 
-The only requirement to have your business listed on the Mission Texas Guide is that your business should be in Mission, TX. 
+The only requirement to have your business listed on the Mission Texas Guide is that your business should be in Mission, TX.
 
 Fill out the form below to request information about advertising on the Mission Texas Guide.
 
