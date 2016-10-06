@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-10-05T19:37:20.262Z'
+datePublished: '2016-10-06T16:46:40.689Z'
 sourcePath: _posts/2016-10-01-activities.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-05T19:36:36.154Z'
+dateModified: '2016-10-06T16:46:37.765Z'
 title: Activities
 publisher: {}
 description: ''
 starred: false
 url: activities/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d43ed13-e854-471d-8b44-2c213feb013c.jpg)
