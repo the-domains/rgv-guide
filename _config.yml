@@ -1,5 +1,6 @@
-layout_spectrum: 0.14525716006626735
 typography_spectrum: 0.23217332278544286
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#9FA0A7'
@@ -11,12 +12,11 @@ color:
   lightness: 0.9315238590658376
   saturation: 0.0630537296552211
   rhythmicContrast: 0.9403179636977539
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.14525716006626735
 author:
   name: Shaine Mata
   url: 'http://www.shainemata.com'
@@ -25,9 +25,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b93f3b9a-cefd-4ef0-a12e-1d5657260a98.png
 name: 'Mission, Texas Guide'
 navigation:
-  - name: About
-    id: 9a2aa503-1ea5-4d24-82c5-986191c78f54
-    type: content
   - name: Blog
     url: 'http://blog.missiontexas.net/'
     type: external
