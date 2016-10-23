@@ -21,6 +21,8 @@ author:
   name: Shaine Mata
   url: 'http://www.shainemata.com'
   email: shaine@shainemata.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b93f3b9a-cefd-4ef0-a12e-1d5657260a98.png
 name: 'Mission, Texas Guide'
 navigation:
   - name: About
@@ -38,7 +40,10 @@ navigation:
   - name: History
     id: fc1b2c87-64c0-4e77-a59e-303bde9975c1
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db740d0-84c2-4088-9140-6f09088d28fd.ico
 title: 'Mission, Texas Guide'
+content: []
 description: 'Find it here '
 purpose:
   - type: internal
