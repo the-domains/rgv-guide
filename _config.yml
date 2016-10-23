@@ -37,6 +37,9 @@ navigation:
   - name: History
     id: fc1b2c87-64c0-4e77-a59e-303bde9975c1
     type: content
+  - name: Activities
+    id: 449bf259-60ee-4e72-9d4a-9ad9288ac175
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db740d0-84c2-4088-9140-6f09088d28fd.ico
 title: 'Mission, Texas Guide'
