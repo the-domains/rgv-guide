@@ -28,7 +28,7 @@ navigation:
   - name: Blog
     url: 'http://blog.missiontexas.net/'
     type: external
-  - name: Upcoming Events
+  - name: Events
     id: 0974496f-6a2c-4383-8db9-dd338fbe0d85
     type: content
   - name: Business Directory
