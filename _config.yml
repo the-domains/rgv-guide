@@ -31,7 +31,7 @@ navigation:
   - name: Events
     id: 0974496f-6a2c-4383-8db9-dd338fbe0d85
     type: content
-  - name: Business Directory
+  - name: Directory
     id: 68ebd1a1-1948-486c-bd75-d7f8b54ac140
     type: content
   - name: History
