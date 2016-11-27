@@ -4,9 +4,9 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 23 Oct 2016 17:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2016 19:40:46 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Oct 2016 17:46:25 GMT</pubDate>
+        <pubDate>Sun, 27 Nov 2016 19:40:33 GMT</pubDate>
         <item>
             <title><![CDATA[Business Directory]]></title>
             <description><![CDATA[<h1>Business Directory</h1>]]></description>
@@ -20,13 +20,6 @@
             <link>http://missiontexas.net/featured-businesses/index.html</link>
             <guid isPermaLink="false">dd7c3e19-f125-4de1-b7ad-9930104df6ab</guid>
             <pubDate>Thu, 06 Oct 2016 17:14:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upcoming Events]]></title>
-            <description><![CDATA[<article><h1>Upcoming Events</h1><h2>October</h2><p>October 29 to November 1, 2016 at the National Butterfly Center</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47d6c16e-f38a-4814-bb80-35b698836f0e.jpg"></article>]]></description>
-            <link>http://missiontexas.net/upcoming-events/index.html</link>
-            <guid isPermaLink="false">0974496f-6a2c-4383-8db9-dd338fbe0d85</guid>
-            <pubDate>Sun, 23 Oct 2016 17:46:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
