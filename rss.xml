@@ -4,15 +4,22 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Nov 2016 19:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2016 20:36:14 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Nov 2016 19:56:56 GMT</pubDate>
+        <pubDate>Sun, 27 Nov 2016 20:36:13 GMT</pubDate>
         <item>
             <title><![CDATA[Business Directory]]></title>
             <description><![CDATA[<h1>Business Directory</h1>]]></description>
             <link>http://missiontexas.net/categories/index.html</link>
             <guid isPermaLink="false">68ebd1a1-1948-486c-bd75-d7f8b54ac140</guid>
             <pubDate>Sun, 27 Nov 2016 19:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mission TX - Genealogical Resources to Help Discover Your Mexican Ancestry]]></title>
+            <description><![CDATA[<article><h1>Mission TX - Genealogical Resources to Help Discover Your Mexican Ancestry</h1><p>Uploaded by City of Mission Tx on 2016-11-22.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/01617bd77d29d8608470af52a97609cb/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FIQRTGuH6F-M%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/IQRTGuH6F-M</link>
+            <guid isPermaLink="false">d05c8329-0529-479c-930d-8f555d50f4ca</guid>
+            <pubDate>Sun, 27 Nov 2016 20:35:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
