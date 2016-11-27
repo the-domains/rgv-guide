@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-11-27T19:41:37.089Z'
+datePublished: '2016-11-27T19:42:58.060Z'
 sourcePath: _posts/2016-10-06-featured-businesses.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-27T19:41:36.533Z'
+dateModified: '2016-11-27T19:42:57.397Z'
 title: Featured Businesses
 publisher: {}
 description: ''
-starred: true
+starred: false
 url: featured-businesses/index.html
 _type: Blurb
 
