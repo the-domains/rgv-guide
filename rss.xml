@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 06 Dec 2016 16:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2016 00:59:04 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Dec 2016 16:22:26 GMT</pubDate>
+        <pubDate>Wed, 07 Dec 2016 00:59:02 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - Christmas Tree Lighting 2016 - YouTube]]></title>
+            <description><![CDATA[<article><h1>Mission TX - Christmas Tree Lighting 2016 - YouTube</h1><p>Shaine Mata shared a video</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c3c71383647da48c446deb38c2957a04/noop.jpg?input=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fk5BvdfNUQvE%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/shared?ci=cFQ7jgiB4xU</link>
+            <guid isPermaLink="false">30cca2d2-3a45-4e00-973e-bac0c4a7bca9</guid>
+            <pubDate>Wed, 07 Dec 2016 00:59:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MCISD Seeing Only 1's and 0's During Computer Science Education Week - MissionEDC]]></title>
             <description><![CDATA[<article><h1>MCISD Seeing Only 1's and 0's During Computer Science Education Week - MissionEDC</h1><p>For Immediate Release 12/2/16 MCISD Seeing Only 1's and 0's During Computer Science Education Week Computers are everywhere, changing every industry on the planet, and MCISD students are ready to join in the revolution with an Hour of Code.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5db63ba8a3846d508c27ae1a32563a9b/noop.png?input=http%3A%2F%2Fwww.missionedc.com%2Fwp-content%2Fuploads%2F2016%2F05%2FMissionEDCLogo.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/CityOfMissionTX/status/803616546748702720</link>
             <guid isPermaLink="false">fec7488b-e519-4bdd-846a-1c0403209e7d</guid>
             <pubDate>Tue, 29 Nov 2016 15:14:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - Thanksgiving Turkey Giveaway 2016]]></title>
-            <description><![CDATA[<article><h1>Mission TX - Thanksgiving Turkey Giveaway 2016</h1><p>Uploaded by City of Mission Tx on 2016-11-23.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/78da52cbe8fb9c9b12fcb7973f494373/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FEVRJYSuLVso%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/EVRJYSuLVso</link>
-            <guid isPermaLink="false">9231caf6-e5b3-410d-8325-07825c016b81</guid>
-            <pubDate>Sun, 27 Nov 2016 20:37:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
