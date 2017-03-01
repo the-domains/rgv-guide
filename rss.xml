@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Feb 2017 23:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2017 23:30:50 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Feb 2017 23:55:38 GMT</pubDate>
+        <pubDate>Wed, 01 Mar 2017 23:30:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - City Council Meeting 02/27/2017 - YouTube]]></title>
+            <description><![CDATA[<article><h1>Mission TX - City Council Meeting 02/27/2017 - YouTube</h1><p>Shaine Mata shared a video</p><img src="https://i.ytimg.com/vi/07DWIwKoMpM/maxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/shared?ci=V2sjJbSHJX0</link>
+            <guid isPermaLink="false">c2e1e7d3-7899-4895-91ab-899c0cc88fcb</guid>
+            <pubDate>Wed, 01 Mar 2017 23:29:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - Pioneer High School Mock Accident - YouTube]]></title>
             <description><![CDATA[<article><h1>Mission TX - Pioneer High School Mock Accident - YouTube</h1><p>Shaine Mata shared a video</p><img src="https://i.ytimg.com/vi/mCVT6-F8VEA/maxresdefault.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/shared?ci=P7rKoUonulU</link>
             <guid isPermaLink="false">fb520208-5e67-41ad-8acc-ff464b9a3d40</guid>
             <pubDate>Thu, 19 Jan 2017 23:11:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - City Council Meeting 01/09/2016 - YouTube]]></title>
-            <description><![CDATA[<article><h1>Mission TX - City Council Meeting 01/09/2016 - YouTube</h1><p>Shaine Mata shared a video</p><img src="https://i.ytimg.com/vi/E-yaeEOf_fA/maxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/shared?ci=ZlePftTixVs</link>
-            <guid isPermaLink="false">e0fccc14-a3dd-4167-9324-daf4b312ac9e</guid>
-            <pubDate>Tue, 10 Jan 2017 23:56:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
