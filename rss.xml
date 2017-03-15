@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Mar 2017 00:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2017 15:36:01 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Mar 2017 00:30:46 GMT</pubDate>
+        <pubDate>Wed, 15 Mar 2017 15:35:59 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - City Council Meeting 03/13/2017]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FB78iGlR51dA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB78iGlR51dA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FB78iGlR51dA%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=B78iGlR51dA&amp;feature=share</link>
+            <guid isPermaLink="false">38dc5ec0-ef34-4cf3-887f-d425beb44d5e</guid>
+            <pubDate>Wed, 15 Mar 2017 15:35:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Storm on the horizon 2017 March 10]]></title>
             <description><![CDATA[<h1>Storm on the horizon 2017 March 10</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78913fd6-ed64-44e9-a96a-69799d1f3fb5.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/missionedc/status/826805161666424833</link>
             <guid isPermaLink="false">5bb1fc7d-65eb-40e1-8bef-bb3158cae8e5</guid>
             <pubDate>Wed, 01 Feb 2017 15:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We have a Gallery of Photos from the 80th Annual Texas Citrus Fiesta's Royal Reception! | City of Mission]]></title>
-            <description><![CDATA[<article><h1>We have a Gallery of Photos from the 80th Annual Texas Citrus Fiesta&apos;s Royal Reception! | City of Mission</h1><p>Home - What&apos;s Going on in Mission - Photo Galleries - We have a Gallery of Photos from the 80th Annual Texas Citrus Fiesta&apos;s Royal Reception!</p><img src="http://missiontexas.us/wp-content/uploads/2017/01/IMG_2149.jpeg"></article>]]></description>
-            <link>http://missiontexas.us/going-on/galleries/we-have-a-gallery-of-photos-from-the-80th-annual-texas-citrus-fiestas-royal-reception/</link>
-            <guid isPermaLink="false">2f0f2d01-f9ff-49e1-892f-318aa536ef2e</guid>
-            <pubDate>Thu, 26 Jan 2017 22:14:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
