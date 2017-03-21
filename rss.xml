@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Mar 2017 15:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2017 18:16:06 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Mar 2017 15:35:59 GMT</pubDate>
+        <pubDate>Tue, 21 Mar 2017 18:16:05 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - Mission Historical Museum Lecture with Manuel Hinojosa]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7wJOHuRn7wI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7wJOHuRn7wI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7wJOHuRn7wI%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=7wJOHuRn7wI&amp;feature=share</link>
+            <guid isPermaLink="false">71427758-069b-4807-8c4d-3711adbe5021</guid>
+            <pubDate>Tue, 21 Mar 2017 18:16:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - City Council Meeting 03/13/2017]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FB78iGlR51dA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB78iGlR51dA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FB78iGlR51dA%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/shared?ci=sycMgUXnEmE</link>
             <guid isPermaLink="false">c1326a5f-5348-4b8f-893b-7e628c9f7786</guid>
             <pubDate>Thu, 02 Feb 2017 01:55:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>Coding camps, high-demand tech job training, entrepreneur workshops &amp;amp; lots more. Our latest newsletter: https://t.co/kJMwJmq4z8 @MissionCOC</blockquote>]]></description>
-            <link>https://twitter.com/missionedc/status/826805161666424833</link>
-            <guid isPermaLink="false">5bb1fc7d-65eb-40e1-8bef-bb3158cae8e5</guid>
-            <pubDate>Wed, 01 Feb 2017 15:10:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
