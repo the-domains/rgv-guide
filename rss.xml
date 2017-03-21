@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Mar 2017 18:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2017 18:17:03 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Mar 2017 18:16:05 GMT</pubDate>
+        <pubDate>Tue, 21 Mar 2017 18:17:01 GMT</pubDate>
+        <item>
+            <title><![CDATA[From Mission to Berlin: MEDC Portal connects residents to people around the world]]></title>
+            <description><![CDATA[<article><h1>From Mission to Berlin: MEDC Portal connects residents to people around the world</h1><p>After a few moments in the waiting area, Jason Mangold was instructed to enter a gold painted, shipping container-like device. The business developer had traveled from Chicago to Mission but decided to make a visit to a new attraction at Mission&apos;s...</p><img src="http://www.progresstimes.net//images/news/2017/20170317_BW_MissionPortal_JDL.jpg"></article>]]></description>
+            <link>http://www.progresstimes.net/news/local-news/9199-from-mission-to-berlin.html</link>
+            <guid isPermaLink="false">f3037dea-b113-458f-a1d2-34e1db1ad833</guid>
+            <pubDate>Tue, 21 Mar 2017 18:16:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - Mission Historical Museum Lecture with Manuel Hinojosa]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7wJOHuRn7wI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7wJOHuRn7wI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7wJOHuRn7wI%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/shared?ci=M3qv4-hhiww</link>
             <guid isPermaLink="false">c75b6d5c-de8f-4a72-a3d1-6986e1cc79a6</guid>
             <pubDate>Thu, 02 Feb 2017 01:55:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - History Lecture WF Strong - YouTube]]></title>
-            <description><![CDATA[<article><h1>Mission TX - History Lecture WF Strong - YouTube</h1><p>Shaine Mata shared a video</p><img src="https://i.ytimg.com/vi/D4zT8WtoHxY/maxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/shared?ci=sycMgUXnEmE</link>
-            <guid isPermaLink="false">c1326a5f-5348-4b8f-893b-7e628c9f7786</guid>
-            <pubDate>Thu, 02 Feb 2017 01:55:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
