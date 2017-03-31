@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Mar 2017 21:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2017 19:50:05 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Mar 2017 21:49:28 GMT</pubDate>
+        <pubDate>Fri, 31 Mar 2017 19:49:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - Boys and Girls Club of Mission Baseball Opening Ceremony 2017]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fdvg0UWB0Vtk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddvg0UWB0Vtk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fdvg0UWB0Vtk%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/dvg0UWB0Vtk</link>
+            <guid isPermaLink="false">672ae361-48cf-4f9b-a166-546f49b92dbc</guid>
+            <pubDate>Fri, 31 Mar 2017 19:49:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - City Council Meeting 03/27/2017]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FrewH3RFVY3g%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrewH3RFVY3g&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrewH3RFVY3g%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/shared?ci=0E3JQAuMdSI</link>
             <guid isPermaLink="false">1b841303-b37a-4e90-8ab8-5069e5c3e421</guid>
             <pubDate>Wed, 15 Feb 2017 23:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - Crime Stoppers Career Day at Memorial Middle School - YouTube]]></title>
-            <description><![CDATA[<article><h1>Mission TX - Crime Stoppers Career Day at Memorial Middle School - YouTube</h1><p>Shaine Mata shared a video</p><img src="https://i.ytimg.com/vi/eJvv--c4vcg/maxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/shared?ci=unFck4iH81g</link>
-            <guid isPermaLink="false">3f69b881-a0e4-4db1-8a22-602d5c9e8c3c</guid>
-            <pubDate>Fri, 03 Feb 2017 22:35:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
