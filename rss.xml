@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 06 Apr 2017 15:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2017 19:51:41 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Apr 2017 15:08:06 GMT</pubDate>
+        <pubDate>Thu, 06 Apr 2017 19:51:09 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - Crime Victims Rights Week 2017]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAhtxKisnDfg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAhtxKisnDfg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAhtxKisnDfg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/AhtxKisnDfg</link>
+            <guid isPermaLink="false">98fb8396-f005-4617-a11b-997bd7e164a4</guid>
+            <pubDate>Thu, 06 Apr 2017 19:50:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission EDC Picks NYC Artist to Lead New Program - MissionEDC]]></title>
             <description><![CDATA[<article><h1>Mission EDC Picks NYC Artist to Lead New Program - MissionEDC</h1><p>Former Metropolitan Museum of Art Imaging Producer is first Expert-in-Residence MISSION, TEXAS - April 5, 2017 - Mission EDC launches new mentorship program to address growing need of creative professional development. The Expert-in-Residence initiative will connect Mission residents to experts in the fields of science, technology, engineering, art, and math.</p><img src="http://www.missionedc.com/wp-content/uploads/2017/04/cb_jackie_neale_chadwick_v004.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://missiontexas.net/south-texas-ideas-festival/index.html</link>
             <guid isPermaLink="false">53e16826-3d6c-4643-81b9-b7dd4696117d</guid>
             <pubDate>Tue, 07 Mar 2017 16:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - City Council Meeting 02/27/2017 - YouTube]]></title>
-            <description><![CDATA[<article><h1>Mission TX - City Council Meeting 02/27/2017 - YouTube</h1><p>Shaine Mata shared a video</p><img src="https://i.ytimg.com/vi/07DWIwKoMpM/maxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/shared?ci=V2sjJbSHJX0</link>
-            <guid isPermaLink="false">c2e1e7d3-7899-4895-91ab-899c0cc88fcb</guid>
-            <pubDate>Wed, 01 Mar 2017 23:29:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
