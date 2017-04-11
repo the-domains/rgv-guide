@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 06 Apr 2017 19:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2017 22:00:22 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Apr 2017 19:51:09 GMT</pubDate>
+        <pubDate>Tue, 11 Apr 2017 22:00:01 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - Mission Historical Museum Lecture with George Diaz]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FO2hxhb2S2Z0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DO2hxhb2S2Z0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FO2hxhb2S2Z0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/O2hxhb2S2Z0</link>
+            <guid isPermaLink="false">431c1419-0b65-4b56-bb55-19ba3e00eb6e</guid>
+            <pubDate>Tue, 11 Apr 2017 21:59:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - Crime Victims Rights Week 2017]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FAhtxKisnDfg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAhtxKisnDfg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FAhtxKisnDfg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>http://missiontexas.net/storm-on-the-horizon-2017-march-10/index.html</link>
             <guid isPermaLink="false">a7e1d6bf-7b2a-431b-b196-e98bb7bb2c30</guid>
             <pubDate>Sat, 11 Mar 2017 00:30:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Texas Ideas Festival]]></title>
-            <description><![CDATA[<h1>South Texas Ideas Festival</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b0b2cc1-0814-4b40-b47b-3341ce19b8f5.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/978180f3-4292-4708-83f9-3af516f9a572.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d57eaf0e-bd75-4231-93c3-9227169760de.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/636d4653-aeac-4efe-83bf-23ba85ee62a4.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8b34dda-1555-43a8-86f0-58979f866e2b.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58b4dada-5a94-40c5-b5bc-3d68070f8413.jpg">,<p>The <a href="http://missionceed.org/" title="Mission Center for Education and Economic Development">CEED</a> hosted the <a href="https://www.stxideas.com/" title="South Texas Ideas Festival">South Texas Ideas Festival</a> this past Saturday. Approximately 200 students attended the conference. </p>]]></description>
-            <link>http://missiontexas.net/south-texas-ideas-festival/index.html</link>
-            <guid isPermaLink="false">53e16826-3d6c-4643-81b9-b7dd4696117d</guid>
-            <pubDate>Tue, 07 Mar 2017 16:03:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
