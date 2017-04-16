@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 16 Apr 2017 00:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2017 01:38:49 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Apr 2017 00:52:00 GMT</pubDate>
+        <pubDate>Sun, 16 Apr 2017 01:38:43 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Finally saw the coolest billboard ever! @MissionCISD #HealthiestSchools @CityOfMissionTX</blockquote>]]></description>
+            <link>https://twitter.com/STXFancy/status/852644329545924608</link>
+            <guid isPermaLink="false">5019a2a8-9a60-44c3-9235-cda75916b677</guid>
+            <pubDate>Sun, 16 Apr 2017 01:38:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - City Council Meeting 04/10/2017]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2lnSiSuozlI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2lnSiSuozlI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2lnSiSuozlI%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.progresstimes.net/news/local-news/9199-from-mission-to-berlin.html</link>
             <guid isPermaLink="false">f3037dea-b113-458f-a1d2-34e1db1ad833</guid>
             <pubDate>Tue, 21 Mar 2017 18:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - Mission Historical Museum Lecture with Manuel Hinojosa]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7wJOHuRn7wI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7wJOHuRn7wI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7wJOHuRn7wI%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=7wJOHuRn7wI&amp;feature=share</link>
-            <guid isPermaLink="false">71427758-069b-4807-8c4d-3711adbe5021</guid>
-            <pubDate>Tue, 21 Mar 2017 18:16:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
