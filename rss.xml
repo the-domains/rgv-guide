@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 16 Apr 2017 00:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2017 00:52:37 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Apr 2017 00:51:50 GMT</pubDate>
+        <pubDate>Sun, 16 Apr 2017 00:52:00 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - City Council Meeting 04/10/2017]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2lnSiSuozlI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2lnSiSuozlI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2lnSiSuozlI%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/2lnSiSuozlI</link>
+            <guid isPermaLink="false">f7f2dcf9-710c-4991-a02d-245b82c63932</guid>
+            <pubDate>Sun, 16 Apr 2017 00:51:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Enjoy These Easter Events with Chamber Members]]></title>
             <description><![CDATA[<article><h1>Enjoy These Easter Events with Chamber Members</h1><p>At The Greater Mission Chamber of Commerce, we understand how important holidays can be, especially one like Easter. These days of celebration offer the perfect opportunity for businesses and residents to not only bolster the local economy but to also enjoy celebratory activities and events througho</p><img src="http://www.missionchamber.com/wp-content/uploads/2017/03/BENTSEN-2014_6755.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=7wJOHuRn7wI&amp;feature=share</link>
             <guid isPermaLink="false">71427758-069b-4807-8c4d-3711adbe5021</guid>
             <pubDate>Tue, 21 Mar 2017 18:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - City Council Meeting 03/13/2017]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FB78iGlR51dA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB78iGlR51dA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FB78iGlR51dA%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=B78iGlR51dA&amp;feature=share</link>
-            <guid isPermaLink="false">38dc5ec0-ef34-4cf3-887f-d425beb44d5e</guid>
-            <pubDate>Wed, 15 Mar 2017 15:35:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
