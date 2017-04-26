@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 17 Apr 2017 23:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2017 15:27:28 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Apr 2017 23:47:13 GMT</pubDate>
+        <pubDate>Wed, 26 Apr 2017 15:27:27 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - City Council Meeting 04/24/17]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6Zn8OdMzXAY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6Zn8OdMzXAY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6Zn8OdMzXAY%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/6Zn8OdMzXAY</link>
+            <guid isPermaLink="false">bdacb280-bf7e-4e68-8cb5-34cd58939ec9</guid>
+            <pubDate>Wed, 26 Apr 2017 15:27:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Expert in Residence - MissionEDC]]></title>
             <description><![CDATA[<article><h1>Expert in Residence - MissionEDC</h1><p>The launch of the Expert-in-Residence program comes at a pivotal time in the city&apos;s growth. As Mission&apos;s workforce continues to develop at a rapid pace, this new initiative will meet the demand for resources and training in areas not usually accessible to Mission residents.</p><img src="http://www.missionedc.com/wp-content/uploads/2016/05/MissionEDCLogo-2-2.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/dvg0UWB0Vtk</link>
             <guid isPermaLink="false">672ae361-48cf-4f9b-a166-546f49b92dbc</guid>
             <pubDate>Fri, 31 Mar 2017 19:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - City Council Meeting 03/27/2017]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FrewH3RFVY3g%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrewH3RFVY3g&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrewH3RFVY3g%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/rewH3RFVY3g</link>
-            <guid isPermaLink="false">224c7785-6420-4bc5-828d-354f6962175e</guid>
-            <pubDate>Wed, 29 Mar 2017 21:49:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
