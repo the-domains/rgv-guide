@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 26 Apr 2017 15:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2017 22:55:33 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Apr 2017 15:27:27 GMT</pubDate>
+        <pubDate>Fri, 28 Apr 2017 22:55:31 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - Dia Del Nino 2017]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWqh3x67Yd7M%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWqh3x67Yd7M&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWqh3x67Yd7M%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=Wqh3x67Yd7M</link>
+            <guid isPermaLink="false">5ada5802-1505-47b4-ad12-b5d771eeb0bf</guid>
+            <pubDate>Fri, 28 Apr 2017 22:55:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - City Council Meeting 04/24/17]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6Zn8OdMzXAY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6Zn8OdMzXAY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6Zn8OdMzXAY%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/CityOfMissionTX/status/847628829816270849</link>
             <guid isPermaLink="false">9e86f11a-6265-464c-8e20-f9019378f2de</guid>
             <pubDate>Fri, 31 Mar 2017 20:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - Boys and Girls Club of Mission Baseball Opening Ceremony 2017]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fdvg0UWB0Vtk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddvg0UWB0Vtk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fdvg0UWB0Vtk%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/dvg0UWB0Vtk</link>
-            <guid isPermaLink="false">672ae361-48cf-4f9b-a166-546f49b92dbc</guid>
-            <pubDate>Fri, 31 Mar 2017 19:49:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
