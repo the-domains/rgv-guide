@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 10 Jun 2017 02:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2017 19:59:05 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Jun 2017 02:46:10 GMT</pubDate>
+        <pubDate>Mon, 12 Jun 2017 19:59:03 GMT</pubDate>
+        <item>
+            <title><![CDATA[2017 Mission Community BBQ Throwdown]]></title>
+            <description><![CDATA[<h1>2017 Mission Community BBQ Throwdown</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e0e36df-4b69-4fa3-ad55-acb8d69396a2.png">]]></description>
+            <link>http://missiontexas.net/2017-mission-community-bbq-throwdown/index.html</link>
+            <guid isPermaLink="false">d125f6a0-477b-4700-a1ac-d990eb63cbd7</guid>
+            <pubDate>Mon, 12 Jun 2017 19:59:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - History Lecture Joseph Fox 05202017]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fl-1kwB-tLTo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl-1kwB-tLTo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fl-1kwB-tLTo%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=Wqh3x67Yd7M</link>
             <guid isPermaLink="false">5ada5802-1505-47b4-ad12-b5d771eeb0bf</guid>
             <pubDate>Fri, 28 Apr 2017 22:55:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - City Council Meeting 04/24/17]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6Zn8OdMzXAY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6Zn8OdMzXAY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F6Zn8OdMzXAY%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/6Zn8OdMzXAY</link>
-            <guid isPermaLink="false">bdacb280-bf7e-4e68-8cb5-34cd58939ec9</guid>
-            <pubDate>Wed, 26 Apr 2017 15:27:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
