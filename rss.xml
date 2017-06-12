@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 12 Jun 2017 19:59:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2017 21:46:24 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Jun 2017 19:59:03 GMT</pubDate>
+        <pubDate>Mon, 12 Jun 2017 21:46:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[MEDC Cybersecurity High Demand Job Training Grant Announcement]]></title>
+            <description><![CDATA[<h1>MEDC Cybersecurity High Demand Job Training Grant Announcement</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44369108-2a2d-4e58-aa9c-62423d1bfc70.jpg">]]></description>
+            <link>http://missiontexas.net/medc-cybersecurity-high-demand-job-training-grant-announceme/index.html</link>
+            <guid isPermaLink="false">21dd1e82-821d-4cad-91d5-41794532631f</guid>
+            <pubDate>Mon, 12 Jun 2017 21:45:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2017 Mission Community BBQ Throwdown]]></title>
             <description><![CDATA[<h1>2017 Mission Community BBQ Throwdown</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e0e36df-4b69-4fa3-ad55-acb8d69396a2.png">]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=x3rzm7YUnjA</link>
             <guid isPermaLink="false">822cf71d-9286-46d5-b5be-c1619acdb90e</guid>
             <pubDate>Fri, 12 May 2017 15:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - Dia Del Nino 2017]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWqh3x67Yd7M%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWqh3x67Yd7M&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWqh3x67Yd7M%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=Wqh3x67Yd7M</link>
-            <guid isPermaLink="false">5ada5802-1505-47b4-ad12-b5d771eeb0bf</guid>
-            <pubDate>Fri, 28 Apr 2017 22:55:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
