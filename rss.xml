@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Jun 2017 12:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2017 12:14:00 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Jun 2017 12:13:26 GMT</pubDate>
+        <pubDate>Thu, 29 Jun 2017 12:13:32 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission Texas - Temporary Home for Families in need 06/27/2017]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fk3Zm0LEI1GY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk3Zm0LEI1GY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fk3Zm0LEI1GY%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=k3Zm0LEI1GY&amp;feature=share</link>
+            <guid isPermaLink="false">ed747401-e081-4368-8df2-837d186d01e1</guid>
+            <pubDate>Thu, 29 Jun 2017 12:13:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - City Council Meeting 06/12/2017]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fh2C3Vy7F_Jg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh2C3Vy7F_Jg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh2C3Vy7F_Jg%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://twitter.com/CityOfMissionTX/status/863814968042545152</link>
             <guid isPermaLink="false">5d9fbebd-a78f-475e-a69d-d9fa5db86ab1</guid>
             <pubDate>Sun, 14 May 2017 18:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2017 Etsy Craft Entrepreneurship Program - MissionEDC]]></title>
-            <description><![CDATA[<article><h1>2017 Etsy Craft Entrepreneurship Program - MissionEDC</h1><p>Sign up now for our Etsy program program.</p><img src="http://www.missionedc.com/wp-content/uploads/2016/02/Etsy-Slider-Mission-EDC.jpg"></article>]]></description>
-            <link>http://www.missionedc.com/2017-etsy-craft-entrepreneurship-program/</link>
-            <guid isPermaLink="false">30d7d124-70a0-4cb2-b753-8d1f91039a82</guid>
-            <pubDate>Fri, 12 May 2017 15:49:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
