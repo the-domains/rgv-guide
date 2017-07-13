@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Jun 2017 12:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2017 15:35:36 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Jun 2017 12:13:32 GMT</pubDate>
+        <pubDate>Thu, 13 Jul 2017 15:35:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - City Council Meeting 07/10/2017]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNQ0eejwPg24%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNQ0eejwPg24&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNQ0eejwPg24%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=NQ0eejwPg24</link>
+            <guid isPermaLink="false">d91fe5f1-7c08-4b67-bc86-d9cedab237d9</guid>
+            <pubDate>Thu, 13 Jul 2017 15:35:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission Texas - Temporary Home for Families in need 06/27/2017]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fk3Zm0LEI1GY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk3Zm0LEI1GY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fk3Zm0LEI1GY%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=pgBN8iNCxpg</link>
             <guid isPermaLink="false">33d5269b-69d1-4a70-b2f0-495a2236b35c</guid>
             <pubDate>Thu, 18 May 2017 18:58:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<blockquote>Join us Mon, as Mission gathers to honor our Police Officers &amp;amp; Fire Fighters who have lost their lives or been injured in the line of duty.</blockquote>]]></description>
-            <link>https://twitter.com/CityOfMissionTX/status/863814968042545152</link>
-            <guid isPermaLink="false">5d9fbebd-a78f-475e-a69d-d9fa5db86ab1</guid>
-            <pubDate>Sun, 14 May 2017 18:16:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
