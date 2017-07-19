@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 13 Jul 2017 15:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2017 22:02:57 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Jul 2017 15:35:23 GMT</pubDate>
+        <pubDate>Wed, 19 Jul 2017 22:02:09 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - Mission Historical Museum - "Afro-Mexican Spaces and Legacies on the Lower Rio Grande"]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Feo-_sXIVPWs%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Deo-_sXIVPWs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Feo-_sXIVPWs%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=eo-_sXIVPWs</link>
+            <guid isPermaLink="false">f8a1fb76-72de-4d8d-bd12-ac7a44728f6d</guid>
+            <pubDate>Wed, 19 Jul 2017 22:02:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - City Council Meeting 07/10/2017]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNQ0eejwPg24%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNQ0eejwPg24&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNQ0eejwPg24%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=SOv76DrQkwI</link>
             <guid isPermaLink="false">596cce46-96f1-4a26-be53-9b874ff07c33</guid>
             <pubDate>Thu, 18 May 2017 18:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - Police and Fire Memorial Ceremony 2017]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FpgBN8iNCxpg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpgBN8iNCxpg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpgBN8iNCxpg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=pgBN8iNCxpg</link>
-            <guid isPermaLink="false">33d5269b-69d1-4a70-b2f0-495a2236b35c</guid>
-            <pubDate>Thu, 18 May 2017 18:58:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
