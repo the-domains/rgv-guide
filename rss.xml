@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 19 Jul 2017 22:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2017 22:41:20 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Jul 2017 22:02:09 GMT</pubDate>
+        <pubDate>Fri, 04 Aug 2017 22:41:19 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - National Night Out 2017]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-sn5GngsdGc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-sn5GngsdGc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-sn5GngsdGc%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=-sn5GngsdGc</link>
+            <guid isPermaLink="false">bff1f493-f077-437c-8cc1-47684bedd888</guid>
+            <pubDate>Fri, 04 Aug 2017 22:41:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - Mission Historical Museum - "Afro-Mexican Spaces and Legacies on the Lower Rio Grande"]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Feo-_sXIVPWs%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Deo-_sXIVPWs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Feo-_sXIVPWs%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/ZNILoMiVXUM</link>
             <guid isPermaLink="false">8521fb2b-5956-433b-b650-967bf4457463</guid>
             <pubDate>Thu, 25 May 2017 12:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - Poverty Simulation]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FSOv76DrQkwI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSOv76DrQkwI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSOv76DrQkwI%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=SOv76DrQkwI</link>
-            <guid isPermaLink="false">596cce46-96f1-4a26-be53-9b874ff07c33</guid>
-            <pubDate>Thu, 18 May 2017 18:59:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
