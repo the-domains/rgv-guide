@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Aug 2017 17:52:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2017 00:35:29 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Aug 2017 17:52:23 GMT</pubDate>
+        <pubDate>Sat, 26 Aug 2017 00:35:21 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - City Council Meeting 6/26/2017]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FSYn3kO10rVc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSYn3kO10rVc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSYn3kO10rVc%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=SYn3kO10rVc&amp;feature=share</link>
+            <guid isPermaLink="false">c5b61979-5134-40e2-ad74-94a3a832aeba</guid>
+            <pubDate>Sat, 26 Aug 2017 00:35:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MissionTexas.net]]></title>
             <description><![CDATA[<article><h1>MissionTexas.net</h1><p>MissionTexas.net. 682 likes &middot; 1 talking about this. MissionTexas.net is a community information resource. The project provides recent news and history about the City of Mission, Texas.</p><img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-1/cp0/e15/q65/p200x200/14570212_10154443787547012_5171773985224767628_n.jpg?oh=3876be7f8cdb52869aea8f5f38fc29b7&oe=5A286771"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://missiontexas.net/2017-mission-community-bbq-throwdown/index.html</link>
             <guid isPermaLink="false">d125f6a0-477b-4700-a1ac-d990eb63cbd7</guid>
             <pubDate>Mon, 12 Jun 2017 19:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mission TX - History Lecture Joseph Fox 05202017]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fl-1kwB-tLTo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl-1kwB-tLTo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fl-1kwB-tLTo%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://www.youtube.com/watch?v=l-1kwB-tLTo&amp;feature=share</link>
-            <guid isPermaLink="false">74b71b38-c91f-44ba-b29d-95233c0a1886</guid>
-            <pubDate>Sat, 10 Jun 2017 02:46:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
