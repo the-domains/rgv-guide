@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Aug 2017 00:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2017 22:53:37 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Aug 2017 00:35:21 GMT</pubDate>
+        <pubDate>Sat, 09 Sep 2017 22:53:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>Mission unemployment down again to 7.0%... is the 2nd lowest July in 9 years. Rate is also lower than July 2016 &amp;amp; lower than last month.</blockquote>]]></description>
+            <link>https://www..twitter.com/mbetosalinas/status/906601938925518850</link>
+            <guid isPermaLink="false">6b1e4fee-fa2c-441d-ab61-3541219b5589</guid>
+            <pubDate>Sat, 09 Sep 2017 22:53:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission TX - City Council Meeting 6/26/2017]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FSYn3kO10rVc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSYn3kO10rVc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FSYn3kO10rVc%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>http://missiontexas.net/medc-cybersecurity-high-demand-job-training-grant-announceme/index.html</link>
             <guid isPermaLink="false">21dd1e82-821d-4cad-91d5-41794532631f</guid>
             <pubDate>Mon, 12 Jun 2017 21:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2017 Mission Community BBQ Throwdown]]></title>
-            <description><![CDATA[<h1>2017 Mission Community BBQ Throwdown</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e0e36df-4b69-4fa3-ad55-acb8d69396a2.png">]]></description>
-            <link>http://missiontexas.net/2017-mission-community-bbq-throwdown/index.html</link>
-            <guid isPermaLink="false">d125f6a0-477b-4700-a1ac-d990eb63cbd7</guid>
-            <pubDate>Mon, 12 Jun 2017 19:59:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
