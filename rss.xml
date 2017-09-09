@@ -4,9 +4,16 @@
         <description><![CDATA[Mission, Texas Guide]]></description>
         <link>http://missiontexas.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Sep 2017 22:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2017 22:56:20 GMT</lastBuildDate>
         <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 Sep 2017 22:53:35 GMT</pubDate>
+        <pubDate>Sat, 09 Sep 2017 22:56:19 GMT</pubDate>
+        <item>
+            <title><![CDATA[Mission TX - City Council Meeting 7/24/17]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZ6X58Wja0kU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZ6X58Wja0kU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZ6X58Wja0kU%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=Z6X58Wja0kU&amp;feature=share</link>
+            <guid isPermaLink="false">28760f31-f124-4122-b582-ba2c0560c78c</guid>
+            <pubDate>Sat, 09 Sep 2017 22:56:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<blockquote>Mission unemployment down again to 7.0%... is the 2nd lowest July in 9 years. Rate is also lower than July 2016 &amp;amp; lower than last month.</blockquote>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/3kLZPSIw4Dw</link>
             <guid isPermaLink="false">34ced7f2-2beb-42f2-8a31-9c470f213de8</guid>
             <pubDate>Thu, 29 Jun 2017 12:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MEDC Cybersecurity High Demand Job Training Grant Announcement]]></title>
-            <description><![CDATA[<h1>MEDC Cybersecurity High Demand Job Training Grant Announcement</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44369108-2a2d-4e58-aa9c-62423d1bfc70.jpg">]]></description>
-            <link>http://missiontexas.net/medc-cybersecurity-high-demand-job-training-grant-announceme/index.html</link>
-            <guid isPermaLink="false">21dd1e82-821d-4cad-91d5-41794532631f</guid>
-            <pubDate>Mon, 12 Jun 2017 21:45:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
