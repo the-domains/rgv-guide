@@ -1,6 +1,5 @@
-typography_spectrum: 0.9215615203422448
-content_rating:
-  adult: false
+layout_spectrum: 0.8217545799618715
+typography_spectrum: 0.1450782870989994
 color:
   brandColors:
     - '#020003'
@@ -8,15 +7,16 @@ color:
     - '#8E2F03'
     - '#CECCBF'
     - '#648C08'
-  brandStrength: 0.9359261321260751
-  lightness: 0.7416635603612602
-  saturation: 0.9409002850695264
-  rhythmicContrast: 0.905497898394703
+  brandStrength: 0.9354374381618593
+  lightness: 0.7440771990235304
+  saturation: 0.942079271538515
+  rhythmicContrast: 0.9082652596203555
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.4930652073737566
 author:
   name: Shaine Mata
   url: 'http://www.shainemata.com'
