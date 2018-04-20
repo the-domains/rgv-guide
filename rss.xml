@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mission, Texas Guide]]></title>
+        <description><![CDATA[Mission, Texas Guide]]></description>
+        <link>http://missiontexas.net/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 Apr 2018 14:03:15 GMT</lastBuildDate>
+        <atom:link href="http://missiontexas.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 20 Apr 2018 14:03:14 GMT</pubDate>
+        <item>
+            <title><![CDATA[City Council Meeting 04/09/2018]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FmbAMi3hqBA4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmbAMi3hqBA4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmbAMi3hqBA4%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=mbAMi3hqBA4</link>
+            <guid isPermaLink="false">af431a61-ab3c-4785-a55e-c30017272bb4</guid>
+            <pubDate>Fri, 20 Apr 2018 14:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mission TX - Mission Event Center Ribbon Cutting]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FGpNf8jzlgXY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGpNf8jzlgXY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGpNf8jzlgXY%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=GpNf8jzlgXY</link>
+            <guid isPermaLink="false">5475bab3-fd76-465d-bd65-b7de5426be64</guid>
+            <pubDate>Fri, 20 Apr 2018 14:02:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
